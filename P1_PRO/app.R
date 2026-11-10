@@ -9,6 +9,9 @@
 
 
 suppressPackageStartupMessages({
+  # markdown: lo usa includeMarkdown() de forma indirecta; se carga aquí para que
+  # rsconnect lo incluya en manifest.json (Posit Connect Cloud)
+  library(markdown)
   library(shiny); library(bslib); library(sf); library(dplyr)
   library(plotly); library(DT); library(jsonlite); library(readr)
 })
