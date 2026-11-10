@@ -1,0 +1,98 @@
+{
+  "corrida": "20261109-113535-live-groq",
+  "modo": "live",
+  "proveedor": "groq",
+  "modelo": "groq:openai/gpt-oss-120b",
+  "etapas": [
+    {
+      "etapa": 1,
+      "esperados": [
+        "G5",
+        "G3"
+      ]
+    },
+    {
+      "etapa": 2,
+      "esperados": [
+        "G3",
+        "G4",
+        "G6",
+        "G8",
+        "G10"
+      ]
+    },
+    {
+      "etapa": 3,
+      "esperados": [
+        "G2"
+      ]
+    },
+    {
+      "etapa": 4,
+      "esperados": [
+        "G1",
+        "G6",
+        "G7"
+      ]
+    }
+  ],
+  "vacios_detectados": {
+    "G3": [
+      "E1-defensa_civil",
+      "E1-operador_a",
+      "E2-operador_a",
+      "E2-regulador",
+      "E2-defensa_civil",
+      "E2-operador_a",
+      "E2-defensa_civil",
+      "E4-defensa_civil"
+    ],
+    "G5": [
+      "E1-defensa_civil"
+    ],
+    "G4": [
+      "E2-operador_a",
+      "E2-regulador",
+      "E2-defensa_civil",
+      "E2-operador_a",
+      "E2-defensa_civil"
+    ],
+    "G6": [
+      "E2-operador_a",
+      "E2-regulador",
+      "E2-operador_a"
+    ],
+    "G8": [
+      "E2-operador_a",
+      "E2-regulador",
+      "E2-operador_a",
+      "E2-defensa_civil",
+      "E4-autoridad_datos"
+    ],
+    "G2": [
+      "E3-operador_a",
+      "E3-defensa_civil",
+      "E3-operador_a",
+      "E4-defensa_civil",
+      "E4-autoridad_datos"
+    ],
+    "G1": [
+      "E4-regulador"
+    ]
+  },
+  "citas_totales": 108,
+  "citas_validas": 108,
+  "vacios_esperados": [
+    "G1",
+    "G2",
+    "G3",
+    "G4",
+    "G5",
+    "G6",
+    "G7",
+    "G8",
+    "G10"
+  ],
+  "recall_vacios": 0.78,
+  "precision_citas": 1.0
+}

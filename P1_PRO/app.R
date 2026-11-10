@@ -6,6 +6,8 @@
 #  Primera ejecución: source("../iniciar_app.R") desde el proyecto, o
 #  Rscript preparar_datos.R dentro de P1_PRO.
 # =============================================================================
+
+
 suppressPackageStartupMessages({
   library(shiny); library(bslib); library(sf); library(dplyr)
   library(plotly); library(DT); library(jsonlite); library(readr)
@@ -42,9 +44,12 @@ MALLA <- malla_base(distritos_sf)
 sitios$z <- altura_puntos(sitios$lon, sitios$lat, DEM)
 if (nrow(servicios)) servicios$z <- altura_puntos(servicios$lon, servicios$lat, DEM)
 LIMA <- c(lat = -12.046, lon = -77.043)
-DIR_MOTOR <- normalizePath("../motor_agentes", mustWork = FALSE)
-KB <- if (file.exists("../knowledge_base/kb_articulos.jsonl"))
-  jsonlite::stream_in(file("../knowledge_base/kb_articulos.jsonl", encoding = "UTF-8"), verbose = FALSE) else NULL
+# En el proyecto completo se usan ../motor_agentes y ../knowledge_base; al publicar solo P1_PRO
+# (Posit Connect Cloud) se usa la copia de P1_PRO/agentes/ (bitácoras y base de conocimiento).
+DIR_MOTOR <- normalizePath(if (dir.exists("../motor_agentes/salidas")) "../motor_agentes" else "agentes", mustWork = FALSE)
+ARCH_KB <- c("../knowledge_base/kb_articulos.jsonl", "agentes/kb_articulos.jsonl")
+ARCH_KB <- ARCH_KB[file.exists(ARCH_KB)][1]
+KB <- if (!is.na(ARCH_KB)) jsonlite::stream_in(file(ARCH_KB, encoding = "UTF-8"), verbose = FALSE) else NULL
 PY <- if (.Platform$OS.type == "windows") "../.venv/Scripts/python.exe" else "../.venv/bin/python"
 leer_bitacora <- function(f) {
   l <- readLines(f, encoding = "UTF-8", warn = FALSE)
