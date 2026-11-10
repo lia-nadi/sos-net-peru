@@ -1,0 +1,3697 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-09T14:46:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2703608474,
+  "lat": -12.0298427,
+  "lon": -77.0896429,
+  "tags": {
+    "addr:city": "San Martín de Porres",
+    "addr:street": "Jirón Junín",
+    "amenity": "hospital",
+    "name": "Hospital de la Solidaridad",
+    "toilets:wheelchair": "no",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "limited",
+    "wheelchair:description": "- No tiene ascensor solo hay escaleras. - Algunas consultas son en el 2do piso como terapia física, ginecología y psicologia."
+  }
+},
+{
+  "type": "node",
+  "id": 3247418689,
+  "lat": -12.0402251,
+  "lon": -76.9496835,
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Cap. CBP Andrés Román Gutiérrez Nº 169"
+  }
+},
+{
+  "type": "node",
+  "id": 3358845693,
+  "lat": -12.0686343,
+  "lon": -77.1304192,
+  "tags": {
+    "addr:city": "La Perla",
+    "addr:housenumber": "1160",
+    "addr:street": "Jirón Huascar Marcelo",
+    "amenity": "hospital",
+    "name": "Centro de Asistencia CAP III Metropolitano",
+    "operator": "ESSALUD",
+    "phone": "+51 265-6000",
+    "source": "Reconocimiento cartográfico por KG 2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4343631486,
+  "lat": -12.1560063,
+  "lon": -77.0226805,
+  "tags": {
+    "Source": "Actualizaciones en Peru. Reconocimiento cartográfico por KG 2016",
+    "amenity": "fire_station",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG"
+  }
+},
+{
+  "type": "node",
+  "id": 4552742992,
+  "lat": -12.0714830,
+  "lon": -77.0498354,
+  "tags": {
+    "addr:city": "Jesús María",
+    "addr:housenumber": "161",
+    "addr:postcode": "15011",
+    "addr:street": "Avenida Jose Maria Plaza",
+    "amenity": "hospital",
+    "name": "UBAB Jesús María",
+    "name:es": "UBAB Jesús María",
+    "operator": "Essalud"
+  }
+},
+{
+  "type": "node",
+  "id": 5008524121,
+  "lat": -12.0877134,
+  "lon": -77.0546996,
+  "tags": {
+    "addr:city": "Jesús María",
+    "addr:housenumber": "783",
+    "addr:street": "Avenida Gregorio Escobedo",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Policlínico Peruano Japonés",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.policlinicoperuanojapones.org",
+    "wheelchair": "yes",
+    "wheelchair:description": "El ascensor es grande."
+  }
+},
+{
+  "type": "node",
+  "id": 5082616122,
+  "lat": -12.0609093,
+  "lon": -77.0294569,
+  "tags": {
+    "addr:housenumber": "218",
+    "addr:street": "Avenida Manco Cápac",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospitalidad de la Solidaridad",
+    "name:es": "Hospitalidad de la Solidaridad"
+  }
+},
+{
+  "type": "node",
+  "id": 5320530371,
+  "lat": -12.2020194,
+  "lon": -76.9083631,
+  "tags": {
+    "amenity": "fire_station",
+    "description": "Estación de Bomberos de Bomberos del Peru.",
+    "name": "Nuevo Milenio"
+  }
+},
+{
+  "type": "node",
+  "id": 5321006144,
+  "lat": -12.2020054,
+  "lon": -76.9083524,
+  "tags": {
+    "addr:city": "Villa María del Triunfo",
+    "addr:street": "Avenida Atocongo",
+    "amenity": "fire_station",
+    "name": "Estación de bombero Nuevo Milenio Nº 155",
+    "operator": "Estación de bomberos voluntarios nuevo milenio Nº 155 en Villa Maria Del Triunfo",
+    "phone": "+51 1 2936643"
+  }
+},
+{
+  "type": "node",
+  "id": 6342426572,
+  "lat": -12.0164635,
+  "lon": -76.9489154,
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Huachipa Nº 236"
+  }
+},
+{
+  "type": "node",
+  "id": 6571247132,
+  "lat": -11.9585671,
+  "lon": -76.9903190,
+  "tags": {
+    "addr:city": "San Juan de Lurigancho",
+    "addr:full": "Avenida República de Polonia Asentamiento Humano Trabajadores",
+    "addr:street": "Avenida Republica de Polonia",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Centro Médico Trabajadores Hospital del Niño",
+    "old_name": "Hospital de la Solidaridad Trabajadores Hospital del Niño",
+    "opening_hours": "Mo-Sa 08:00-17:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "operator:wikidata": "Q12184118",
+    "phone": "+511 387 0490",
+    "website": "https://www.sisol.gob.pe/"
+  }
+},
+{
+  "type": "node",
+  "id": 6641120698,
+  "lat": -12.2722618,
+  "lon": -76.8695176,
+  "tags": {
+    "addr:street": "Jirón Bolívar",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "internal",
+    "name": "Centro Materno Infantil de Lurín",
+    "not:operator:wikidata": "Q3065012",
+    "opening_hours": "Mo-Sa 08:00-19:00",
+    "operator": "Ministerio de Salud",
+    "operator:short": "MINSA",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "node",
+  "id": 6641155782,
+  "lat": -12.0889137,
+  "lon": -76.8818519,
+  "tags": {
+    "addr:city": "Manchay",
+    "addr:street": "Los Claveles",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Centro de Salud Portada de Manchay",
+    "opening_hours": "24/7",
+    "operator": "Ministerio de Salud del Perú",
+    "operator:short": "MINSA",
+    "operator:type": "government",
+    "operator:wikidata": "Q3065012",
+    "phone": "+511 3456410",
+    "ref:category": "I-3",
+    "ref:microred": "8",
+    "ref:red": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 7657266220,
+  "lat": -12.0318854,
+  "lon": -77.0653723,
+  "tags": {
+    "addr:city": "San Martín de Porres",
+    "addr:housenumber": "1834",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Perú",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "centre",
+    "healthcare:speciality": "radiology",
+    "name": "JARA med",
+    "operator": "Servicios medicos",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "node",
+  "id": 13626817206,
+  "lat": -12.0788208,
+  "lon": -77.0369795,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Torre Trecca",
+    "operator": "Seguro Social de Salud",
+    "operator:short": "Essalud",
+    "operator:type": "government",
+    "operator:wikidata": "Q6123930"
+  }
+},
+{
+  "type": "way",
+  "id": 39413837,
+  "center": {
+    "lat": -12.0783640,
+    "lon": -77.0398924
+  },
+  "tags": {
+    "addr:city": "Jesús María",
+    "addr:housenumber": "490",
+    "addr:postcode": "15072",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Edgardo Rebagliati",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Hospital Nacional Edgardo Rebagliati Martins",
+    "name:etymology:wikidata": "Q22986646",
+    "old_name": "Hospital del Empleado",
+    "operator": "EsSalud",
+    "operator:type": "public",
+    "phone": "+511 2651526",
+    "short_name": "Hospital Rebagliati",
+    "url": "http://cuerpomedicorebagliati.org/",
+    "website": "https://www.gob.pe/hospital-nacional-edgardo-rebagliati-martins",
+    "wikidata": "Q21849799",
+    "wikimedia_commons": "Category:Hospital Edgardo Rebagliati Martins",
+    "wikipedia": "es:Hospital Edgardo Rebagliati Martins"
+  }
+},
+{
+  "type": "way",
+  "id": 39557243,
+  "center": {
+    "lat": -12.0972266,
+    "lon": -77.0655498
+  },
+  "tags": {
+    "addr:city": "Magdalena del Mar",
+    "addr:housenumber": "600",
+    "addr:street": "Avenida del Ejército",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "height": "2.5",
+    "name": "Hospital Víctor Larco Herrera",
+    "name:en": "Víctor Larco Herrera Hospital",
+    "name:es": "Hospital Víctor Larco Herrera",
+    "old_name": "Asilo Colonia de la Magdalena",
+    "operator": "Ministerio de Salud",
+    "website": "https://www.larcoherrera.gob.pe/",
+    "wikidata": "Q17333591",
+    "wikipedia": "es:Hospital Víctor Larco Herrera"
+  }
+},
+{
+  "type": "way",
+  "id": 40301323,
+  "center": {
+    "lat": -12.0595788,
+    "lon": -77.0223350
+  },
+  "tags": {
+    "addr:city": "La Victoria",
+    "addr:housenumber": "800",
+    "addr:street": "Avenida Almirante Miguel Grau",
+    "alt_name": "Almenara",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional Guillermo Almenara Irigoyen",
+    "phone": "+51 1 3242983;+51 1 3242980",
+    "url": "http://www.cuerpomedicoalmenara.com",
+    "wikidata": "Q21811401",
+    "wikimedia_commons": "Category:Hospital Guillermo Almenara Irigoyen",
+    "wikipedia": "es:Hospital Guillermo Almenara Irigoyen"
+  }
+},
+{
+  "type": "way",
+  "id": 73954281,
+  "center": {
+    "lat": -12.0723555,
+    "lon": -77.0610282
+  },
+  "tags": {
+    "addr:city": "Pueblo Libre",
+    "addr:housenumber": "800",
+    "addr:street": "Avenida Simón Bolívar",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hospital Santa Rosa",
+    "phone": "+511 6158200",
+    "ref:category": "III-1",
+    "source": "Reconocimiento cartográfico por KG 2016",
+    "website": "http://www.hsr.gob.pe/",
+    "wheelchair": "limited",
+    "wheelchair:description": "No se si tiene baño para silla de ruedas"
+  }
+},
+{
+  "type": "way",
+  "id": 75223325,
+  "center": {
+    "lat": -12.0584645,
+    "lon": -77.0386672
+  },
+  "tags": {
+    "addr:city": "Cercado de Lima",
+    "addr:housenumber": "1420",
+    "addr:street": "Avenida Garcilazo de la Vega",
+    "amenity": "hospital",
+    "name": "Clinica Internacional",
+    "phone": "+51 1 619 6161",
+    "website": "https://www.clinicainternacional.com.pe/sede/lima/"
+  }
+},
+{
+  "type": "way",
+  "id": 110061951,
+  "center": {
+    "lat": -11.9141196,
+    "lon": -77.0376892
+  },
+  "tags": {
+    "addr:city": "Comas",
+    "addr:housenumber": "8000",
+    "addr:street": "Avenida Tupac Amaru",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional Sergio E. Bernales",
+    "phone": "+51 54 5580186",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "website": "https://www.hnseb.gob.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 111800007,
+  "center": {
+    "lat": -11.9431649,
+    "lon": -77.0572333
+  },
+  "tags": {
+    "addr:city": "Comas",
+    "addr:housenumber": "541",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Guillermo de la Fuente",
+    "alt_name": "Mariano Molina",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Marino Molina Scippa",
+    "operator": "EsSalud",
+    "operator:type": "public",
+    "phone": "+51 1 5374552"
+  }
+},
+{
+  "type": "way",
+  "id": 116948941,
+  "center": {
+    "lat": -11.9685031,
+    "lon": -76.9956352
+  },
+  "tags": {
+    "addr:city": "San Juan de Lurigancho",
+    "addr:full": "Calle Majes G-11 - Urbanización los Pinos",
+    "addr:neighbourhood": "Asociación Pro Vivienda Los Pinos",
+    "addr:postcode": "15423",
+    "addr:state": "Lima",
+    "addr:street": "Rio Pampa Marca",
+    "alt_name": "Aurelio Díaz Ufano",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital EsSalud Diaz Ufano",
+    "operator": "Essalud",
+    "operator:type": "public",
+    "phone": "+51 1 4594857",
+    "ref:category": "II-1",
+    "ref:microred": "0",
+    "ref:red": "0"
+  }
+},
+{
+  "type": "way",
+  "id": 117005900,
+  "center": {
+    "lat": -12.0618216,
+    "lon": -76.9455002
+  },
+  "tags": {
+    "addr:city": "La Molina",
+    "addr:housenumber": "1201",
+    "addr:neighbourhood": "Urbanización Covima",
+    "addr:postcode": "15012",
+    "addr:state": "Lima",
+    "addr:street": "Avenida de los Constructores",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;paediatrics;surgery;emergency;gynaecology;radiology;cardiology;maternity;physiatry",
+    "name": "Hospital Carlos Alcántara Butterfield",
+    "operator": "EsSalud",
+    "operator:official_name": "Seguridad Social del Perú",
+    "operator:type": "private",
+    "phone": "+51 1 3492288",
+    "ref:category": "II-1",
+    "ref:microred": "0",
+    "ref:red": "0",
+    "website": "http://www.essalud.gob.pe/nuestras-redes-asistenciales/la-molina/"
+  }
+},
+{
+  "type": "way",
+  "id": 118291969,
+  "center": {
+    "lat": -11.9791498,
+    "lon": -77.0529498
+  },
+  "tags": {
+    "addr:city": "Independencia",
+    "addr:full": "Avenida Chinchaysuyo Chinchaysuyo Cuadra 4 - Urb. Tahuantinsuyo Lima - Lima - Independencia",
+    "addr:neighbourhood": "Urbanización Tahuantinsuyo",
+    "addr:street": "Avenida Chinchaysuyo",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "maternity",
+    "name": "Centro Materno Infantil Tahuantinsuyo Bajo",
+    "opening_hours": "24/7",
+    "operator": "Miniterio de Salud",
+    "operator:type": "government",
+    "phone": "+511 5268027",
+    "ref:category": "I-4",
+    "ref:microred": "1",
+    "ref:red": "24"
+  }
+},
+{
+  "type": "way",
+  "id": 122541909,
+  "center": {
+    "lat": -12.0434855,
+    "lon": -77.0119093
+  },
+  "tags": {
+    "addr:city": "El Agustino",
+    "addr:housenumber": "1100",
+    "addr:postcode": "15003",
+    "addr:state": "Lima",
+    "addr:street": "Jirón Áncash",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospicio San Vicente"
+  }
+},
+{
+  "type": "way",
+  "id": 122554771,
+  "center": {
+    "lat": -12.0558833,
+    "lon": -77.0154142
+  },
+  "tags": {
+    "addr:city": "Barrios Altos",
+    "addr:street": "Avenida Almirante Miguel Grau",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "height": "12",
+    "name": "Hospital Nacional Dos de Mayo",
+    "wikidata": "Q24639285",
+    "wikimedia_commons": "Category:Hospital Nacional Dos de Mayo",
+    "wikipedia": "es:Hospital Nacional Dos de Mayo"
+  }
+},
+{
+  "type": "way",
+  "id": 126861263,
+  "center": {
+    "lat": -12.2115835,
+    "lon": -76.9318382
+  },
+  "tags": {
+    "addr:city": "Villa El Salvador",
+    "addr:full": "Avenida César Vallejo / Avenida Separadora Industrial",
+    "addr:postcode": "15834",
+    "addr:state": "Lima",
+    "addr:street": "Avenida César Vallejo",
+    "amenity": "hospital",
+    "contact:phone": "+511 287 5266;+511 287 5670",
+    "contact:website": "http://www.essalud.gob.pe",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "internal",
+    "name": "Hospital Uldarico Roca Fernández",
+    "name:en": "Uldarico Roca Fernández Hospital",
+    "name:fr": "Hôpital Uldarico Roca Fernández",
+    "name:it": "Ospedale Uldarico Roca Fernández",
+    "name:pt": "Hospital Uldarico Roca Fernández",
+    "operator": "EsSalud",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "way",
+  "id": 133436884,
+  "center": {
+    "lat": -12.0426090,
+    "lon": -77.0986620
+  },
+  "tags": {
+    "addr:housenumber": "475",
+    "addr:street": "Jirón Las Magnolias",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "check_date": "2024-05-13",
+    "healthcare": "hospital",
+    "name": "Hospital San José del Callao",
+    "operator": "Gobierno Regional del Callao",
+    "operator:type": "government",
+    "operator:wikidata": "Q3824815",
+    "phone": "+51 1 3197830",
+    "ref:category": "II-2",
+    "ref:microred": "0",
+    "ref:red": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 151303103,
+  "center": {
+    "lat": -12.0856358,
+    "lon": -76.9921762
+  },
+  "tags": {
+    "addr:city": "San Borja",
+    "addr:housenumber": "1399",
+    "addr:street": "Avenida Agustín de la Rosa Toro",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "paediatrics",
+    "name": "Instituto Nacional de Salud del Niño",
+    "operator": "Instituto Nacional de Salud del Niño",
+    "phone": "+5112300600",
+    "ref:category": "III-2",
+    "ref:microred": "0",
+    "ref:red": "0",
+    "website": "https://www.insnsb.gob.pe/",
+    "wikidata": "Q17634865",
+    "wikipedia": "es:Instituto Nacional de Salud del Niño"
+  }
+},
+{
+  "type": "way",
+  "id": 160691934,
+  "center": {
+    "lat": -12.1610982,
+    "lon": -76.9582593
+  },
+  "tags": {
+    "addr:city": "San Juan de Miraflores",
+    "addr:housenumber": "968",
+    "addr:street": "Avenida Miguel Iglesias",
+    "amenity": "hospital",
+    "email": "hma@hma.gob.pe",
+    "emergency": "yes",
+    "healthcare:speciality": "general",
+    "name": "Hospital María Auxiliadora",
+    "operator": "MINSA",
+    "phone": "+51 1 2171818",
+    "website": "http://www.hma.gob.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 169309866,
+  "center": {
+    "lat": -12.0084055,
+    "lon": -77.0036434
+  },
+  "tags": {
+    "addr:city": "San Juan de Lurigancho",
+    "addr:full": "Av. Próceres de la IndependenciaCdra. 16",
+    "addr:postcode": "15431",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Próceres de la Independencia",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud San Juan de Lurigancho",
+    "old_name": "Hospital de la Solidaridad San Juan de Lurigancho",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "operator:wikidata": "Q12184118",
+    "phone": "+51 1 2531186",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 172600382,
+  "center": {
+    "lat": -12.0495517,
+    "lon": -77.0446197
+  },
+  "tags": {
+    "addr:city": "Lima",
+    "addr:housenumber": "848",
+    "addr:street": "Avenida Alfonso Ugarte",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional Arzobispo Loayza",
+    "operator": "Ministerio de Salud del Perú",
+    "operator:type": "government",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "toilets:wheelchair": "no",
+    "website": "http://www.hospitalloayza.gob.pe/",
+    "wheelchair": "yes",
+    "wikidata": "Q5902543",
+    "wikimedia_commons": "Category:Hospital Nacional Arzobispo Loayza, Lima",
+    "wikipedia": "es:Hospital Arzobispo Loayza"
+  }
+},
+{
+  "type": "way",
+  "id": 175012617,
+  "center": {
+    "lat": -12.0862779,
+    "lon": -77.0612312
+  },
+  "tags": {
+    "addr:city": "Jesús María",
+    "addr:housenumber": "2700",
+    "addr:postcode": "15076",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Faustino Sanchez Carrion",
+    "alt_name": "Hospital Militar",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Central Militar Coronel Luis Arias Schreiber",
+    "start_date": "1958",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 178024165,
+  "center": {
+    "lat": -11.8624589,
+    "lon": -77.0793473
+  },
+  "tags": {
+    "addr:street": "Avenida Saenz Peña",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hospital Carlos Ianfranco La Hoz de Puente Piedra",
+    "name:es": "Hospital de Puente Piedra",
+    "operator": "Minsa",
+    "phone": "+511 5481799; +511 5481898",
+    "ref:category": "II-2"
+  }
+},
+{
+  "type": "way",
+  "id": 185197319,
+  "center": {
+    "lat": -12.1441317,
+    "lon": -77.0058183
+  },
+  "tags": {
+    "addr:city": "Santiago de Surco",
+    "addr:housenumber": "309",
+    "addr:street": "Jirón Almirante Miguel Grau",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Municipal de Surco",
+    "name:es": "Surco Salud",
+    "operator": "Ministerio de Salud",
+    "operator:short": "MINSA",
+    "operator:wikidata": "Q3065012",
+    "website": "http://www.munisurco.gob.pe/surco_portal/municipio/app/julio_192_horarios_salud_surco_pueblo.html"
+  }
+},
+{
+  "type": "way",
+  "id": 187076624,
+  "center": {
+    "lat": -11.9662322,
+    "lon": -77.0036190
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital de San Juan de Lurigancho",
+    "operator": "MINSA",
+    "pe:minsa:categoria": "II-2",
+    "pe:renaes:codigo": "5617",
+    "phone": "+51 1 3872300",
+    "source": "Reconocimiento cartográfico por KG 2016.",
+    "start_date": "1976-02-20"
+  }
+},
+{
+  "type": "way",
+  "id": 194898813,
+  "center": {
+    "lat": -12.0649978,
+    "lon": -77.0464372
+  },
+  "tags": {
+    "addr:city": "Breña",
+    "addr:housenumber": "600",
+    "addr:postcode": "15083",
+    "addr:street": "Avenida Brasil",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare:speciality": "paediatrics",
+    "name": "Instituto Nacional de Salud del Niño",
+    "official_name": "Instituto Nacional de Salud del Niño",
+    "website": "http://www.insn.gob.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 195079449,
+  "center": {
+    "lat": -12.0708003,
+    "lon": -77.0597313
+  },
+  "tags": {
+    "addr:city": "Pueblo Libre",
+    "addr:street": "Avenida Paso de los Andes",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clínica Stella Maris",
+    "wheelchair": "limited",
+    "wheelchair:description": "No se si tiene baño para silla de ruedas"
+  }
+},
+{
+  "type": "way",
+  "id": 195568056,
+  "center": {
+    "lat": -12.0730561,
+    "lon": -77.0594710
+  },
+  "tags": {
+    "addr:city": "Pueblo Libre",
+    "addr:housenumber": "675",
+    "addr:postcode": "15021",
+    "addr:street": "Avenida Paso de los Andes",
+    "amenity": "hospital",
+    "email": "informes@clinicapj.org.pe",
+    "emergency": "yes",
+    "name": "Clinica Centenario Peruano Japonesa",
+    "phone": "+51 1 2088000",
+    "website": "https://www.clinicapj.org.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 278393025,
+  "center": {
+    "lat": -12.0849729,
+    "lon": -77.0599318
+  },
+  "tags": {
+    "addr:district": "Jesús María",
+    "addr:housenumber": "2600",
+    "addr:postcode": "15072",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Brasil",
+    "alt_name": "Hospital de La Policía",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional PNP Luis N. Saenz",
+    "operator": "Policía Nacioanl del Perú",
+    "source": "Reconocimiento cartográfico de campo por KG 2016",
+    "website": "https://www.pnp.gob.pe/direcciones_policiales/dirsal/hospital_luis_saenz.html"
+  }
+},
+{
+  "type": "way",
+  "id": 280672265,
+  "center": {
+    "lat": -12.0182836,
+    "lon": -77.0560586
+  },
+  "tags": {
+    "addr:city": "San Martin de Porres",
+    "addr:housenumber": "401",
+    "addr:postcode": "Lima 31",
+    "addr:street": "San Lucas",
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos San Martín de Porres Nº 65",
+    "phone": "+51 1 5347725"
+  }
+},
+{
+  "type": "way",
+  "id": 291986361,
+  "center": {
+    "lat": -12.0444486,
+    "lon": -77.0440449
+  },
+  "tags": {
+    "addr:city": "Lima",
+    "addr:housenumber": "390",
+    "addr:street": "Avenida Guillermo Dansey",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Policlínico Ramón Castilla",
+    "operator": "EsSalud",
+    "operator:type": "public",
+    "phone": "+51 1 3308439;+51 1 3308446"
+  }
+},
+{
+  "type": "way",
+  "id": 298392903,
+  "center": {
+    "lat": -12.0489705,
+    "lon": -77.0352697
+  },
+  "tags": {
+    "addr:city": "Cercado de Lima",
+    "addr:housenumber": "221",
+    "addr:street": "Jirón Moquegua",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos France Nº 3"
+  }
+},
+{
+  "type": "way",
+  "id": 303538832,
+  "center": {
+    "lat": -11.9765314,
+    "lon": -77.0633977
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospìtal Municipal de los Olivos",
+    "short_name": "HMLO",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG"
+  }
+},
+{
+  "type": "way",
+  "id": 307664865,
+  "center": {
+    "lat": -12.0218565,
+    "lon": -77.0553445
+  },
+  "tags": {
+    "addr:city": "San Martín de Porres",
+    "addr:housenumber": "262",
+    "addr:neighbourhood": "Urbanización Ingeniería",
+    "addr:street": "Avenida Honorio Delgado",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hospital Nacional Cayetano Heredia",
+    "name:es": "Cayetano Heredia",
+    "operator": "Minsa",
+    "phone": "+511 4820402",
+    "ref:category": "III-1",
+    "ref:microred": "0",
+    "ref:red": "0",
+    "wikidata": "Q30280231",
+    "wikimedia_commons": "Category:Hospital Nacional Cayetano Heredia",
+    "wikipedia": "es:Hospital Nacional Cayetano Heredia"
+  }
+},
+{
+  "type": "way",
+  "id": 318176049,
+  "center": {
+    "lat": -12.5107139,
+    "lon": -76.7358950
+  },
+  "tags": {
+    "addr:street": "Carretera Panamericana Sur",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Chilca - Nuestra Sra. de la Asunción de María Nº 133",
+    "source": "Kaart Ground Survey 2017"
+  }
+},
+{
+  "type": "way",
+  "id": 318177491,
+  "center": {
+    "lat": -12.3671653,
+    "lon": -76.7934453
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Punta Negra Nº 125"
+  }
+},
+{
+  "type": "way",
+  "id": 318179966,
+  "center": {
+    "lat": -12.2718583,
+    "lon": -76.8703680
+  },
+  "tags": {
+    "addr:city": "Lurín",
+    "addr:street": "Jirón Bolívar",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos San Pedro de Lurín Nº 129"
+  }
+},
+{
+  "type": "way",
+  "id": 318180353,
+  "center": {
+    "lat": -12.2253374,
+    "lon": -76.8596436
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Pachacamac Nº 160"
+  }
+},
+{
+  "type": "way",
+  "id": 318180797,
+  "center": {
+    "lat": -12.2020192,
+    "lon": -76.9084312
+  },
+  "tags": {
+    "addr:city": "Villa María del Triunfo",
+    "addr:street": "Avenida Atocongo",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Nuevo Milenio Nº 155"
+  }
+},
+{
+  "type": "way",
+  "id": 318181468,
+  "center": {
+    "lat": -12.2128880,
+    "lon": -76.9384656
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Villa el Salvador Nº 105"
+  }
+},
+{
+  "type": "way",
+  "id": 318182453,
+  "center": {
+    "lat": -12.1724386,
+    "lon": -76.9453812
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Villa María del Triunfo Nº 106"
+  }
+},
+{
+  "type": "way",
+  "id": 318182825,
+  "center": {
+    "lat": -12.1578108,
+    "lon": -76.9798904
+  },
+  "tags": {
+    "addr:street": "Avenida Pedro José Miota",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos San Juan de Miraflores Nº 120",
+    "source": "Reconocimiento cartográfico por KG 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 318183258,
+  "center": {
+    "lat": -12.1673595,
+    "lon": -77.0261531
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Garibaldi Nº 6"
+  }
+},
+{
+  "type": "way",
+  "id": 318183763,
+  "center": {
+    "lat": -12.1646414,
+    "lon": -77.0243407
+  },
+  "tags": {
+    "addr:city": "Chorrillos",
+    "addr:housenumber": "224",
+    "addr:street": "Avenida Malecón Montarela",
+    "amenity": "fire_station",
+    "contact:facebook": "https://www.facebook.com/Olaya13/",
+    "name": "Compañía de Bomberos Olaya Nº 13",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG"
+  }
+},
+{
+  "type": "way",
+  "id": 318184141,
+  "center": {
+    "lat": -12.1434992,
+    "lon": -76.9887623
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Santiago Apóstol Nº 134"
+  }
+},
+{
+  "type": "way",
+  "id": 318184627,
+  "center": {
+    "lat": -12.1468203,
+    "lon": -77.0201100
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Grau Nº 16"
+  }
+},
+{
+  "type": "way",
+  "id": 318185550,
+  "center": {
+    "lat": -12.1199816,
+    "lon": -77.0226135
+  },
+  "tags": {
+    "Source": "Actualizaciones en Peru. Reconocimiento cartográfico por KG 2016",
+    "addr:city": "Miraflores",
+    "addr:housenumber": "170",
+    "addr:street": "Avenida Andrés Avelino Cáceres",
+    "alt_name": "Miraflores 28",
+    "amenity": "fire_station",
+    "building": "yes",
+    "contact:facebook": "https://es-la.facebook.com/miraflores28/",
+    "contact:instagram": "https://www.instagram.com/bomberosmiraflores",
+    "contact:twitter": "https://twitter.com/miraflores28",
+    "description": "Bomberos de Arequipa",
+    "ele": "95",
+    "email": "mirafloresbomberos@gmail.com",
+    "name": "Compañía de Bomberos Miraflores Nº 28",
+    "operator": "Compañía de Bomberos de Perú",
+    "phone": "+511 4457447",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG",
+    "website": "https://miraflores28.wordpress.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 318186193,
+  "center": {
+    "lat": -12.1074160,
+    "lon": -77.0075557
+  },
+  "tags": {
+    "addr:city": "Surquillo",
+    "addr:street": "Claudio Galeno",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Cosmopolita Nº 11"
+  }
+},
+{
+  "type": "way",
+  "id": 318187030,
+  "center": {
+    "lat": -12.1076016,
+    "lon": -77.0554342
+  },
+  "tags": {
+    "addr:city": "San Isidro",
+    "addr:street": "Calle Godofredo García",
+    "amenity": "fire_station",
+    "building": "yes",
+    "check_date": "2025-02-19",
+    "name": "Compañía de Bomberos San Isidro Nº 100",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG"
+  }
+},
+{
+  "type": "way",
+  "id": 318188471,
+  "center": {
+    "lat": -12.0786098,
+    "lon": -76.9161470
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos La Molina - Andrés Avelino Cáceres Nº 96"
+  }
+},
+{
+  "type": "way",
+  "id": 318277038,
+  "center": {
+    "lat": -12.0770614,
+    "lon": -76.9763072
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Salamanca Nº 127"
+  }
+},
+{
+  "type": "way",
+  "id": 318280078,
+  "center": {
+    "lat": -12.0819004,
+    "lon": -77.0321975
+  },
+  "tags": {
+    "addr:city": "Lince",
+    "addr:street": "Jirón Manuel Candamo",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Lima Nº 4",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG"
+  }
+},
+{
+  "type": "way",
+  "id": 318312597,
+  "center": {
+    "lat": -12.0822205,
+    "lon": -77.0420720
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Jesús María Nº 202"
+  }
+},
+{
+  "type": "way",
+  "id": 318313762,
+  "center": {
+    "lat": -12.0801866,
+    "lon": -77.0657945
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "check_date": "2026-08-15",
+    "name": "Compañía de Bomberos Magdalena Nº 36"
+  }
+},
+{
+  "type": "way",
+  "id": 318316477,
+  "center": {
+    "lat": -12.0856218,
+    "lon": -77.0758943
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos San Miguel Nº 83"
+  }
+},
+{
+  "type": "way",
+  "id": 318316775,
+  "center": {
+    "lat": -12.0720826,
+    "lon": -77.1645627
+  },
+  "tags": {
+    "addr:city": "La Punta",
+    "addr:postcode": "07021",
+    "addr:state": "Callao",
+    "addr:street": "Avenida Bolognesi",
+    "amenity": "fire_station",
+    "building": "yes",
+    "check_date": "2025-02-18",
+    "name": "Compañía de Bomberos La Punta Nº 34"
+  }
+},
+{
+  "type": "way",
+  "id": 318317114,
+  "center": {
+    "lat": -12.0630090,
+    "lon": -77.1455968
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Salvadora Callao Nº 9"
+  }
+},
+{
+  "type": "way",
+  "id": 318318108,
+  "center": {
+    "lat": -12.0582160,
+    "lon": -77.1430697
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Unión Chalaca Nº 1",
+    "source": "Reconocimiento cartográfico por KG 2016."
+  }
+},
+{
+  "type": "way",
+  "id": 318320009,
+  "center": {
+    "lat": -12.0596457,
+    "lon": -77.1400353
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Perú Nº 18"
+  }
+},
+{
+  "type": "way",
+  "id": 318320227,
+  "center": {
+    "lat": -12.0609740,
+    "lon": -77.1309654
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Callao Nº 15"
+  }
+},
+{
+  "type": "way",
+  "id": 318320460,
+  "center": {
+    "lat": -12.0593263,
+    "lon": -77.1172158
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Italia Nº 5"
+  }
+},
+{
+  "type": "way",
+  "id": 318320644,
+  "center": {
+    "lat": -12.0683791,
+    "lon": -77.1131495
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Garibaldi Nº 7"
+  }
+},
+{
+  "type": "way",
+  "id": 318320760,
+  "center": {
+    "lat": -12.0599843,
+    "lon": -77.0926706
+  },
+  "tags": {
+    "addr:housenumber": "391",
+    "addr:street": "Jirón Los Cóndores",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Antonio Alarco Espinoza Nº 60",
+    "phone": "+514514830"
+  }
+},
+{
+  "type": "way",
+  "id": 318321529,
+  "center": {
+    "lat": -11.8760742,
+    "lon": -77.1277765
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Teniente CBP Lorenzo Giraldo Vega Nº 75"
+  }
+},
+{
+  "type": "way",
+  "id": 318321633,
+  "center": {
+    "lat": -11.8563171,
+    "lon": -77.1196728
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Brig. CPB Alejandro Reyes León - Mi Perú Nº 184"
+  }
+},
+{
+  "type": "way",
+  "id": 318331715,
+  "center": {
+    "lat": -11.8380336,
+    "lon": -77.1252067
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Cap. Adolfo Martín King Leoane Nº 207"
+  }
+},
+{
+  "type": "way",
+  "id": 318332021,
+  "center": {
+    "lat": -12.0597340,
+    "lon": -77.0457138
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Internacional Nº 14"
+  }
+},
+{
+  "type": "way",
+  "id": 318332176,
+  "center": {
+    "lat": -12.0675166,
+    "lon": -77.0211396
+  },
+  "tags": {
+    "addr:city": "La Victoria",
+    "addr:street": "Jirón Sebastian Barranca",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Victoria Nº 8"
+  }
+},
+{
+  "type": "way",
+  "id": 318334553,
+  "center": {
+    "lat": -12.0523133,
+    "lon": -77.0354523
+  },
+  "tags": {
+    "addr:city": "Cercado de Lima",
+    "addr:housenumber": "1027",
+    "addr:street": "Jirón de la Unión",
+    "amenity": "fire_station",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/BomberosSalvadoraLima10/",
+    "name": "Compañía de Bomberos Salvadora Lima Nº 10",
+    "name:es": "Compañía de Bomberos Voluntarios Salvadora Lima Nº 10",
+    "operator": "Compañía de Bomberos",
+    "source": "Reconocimiento cartográfico por KG 2016",
+    "wikidata": "Q20024778",
+    "wikipedia": "es:Compañía de Bomberos Voluntarios Salvadora Lima Nº 10"
+  }
+},
+{
+  "type": "way",
+  "id": 318337286,
+  "center": {
+    "lat": -12.0482617,
+    "lon": -77.0262315
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "public",
+    "height": "12",
+    "name": "Compañía de Bomberos Roma Nº 2"
+  }
+},
+{
+  "type": "way",
+  "id": 318338405,
+  "center": {
+    "lat": -12.0512040,
+    "lon": -76.9974084
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos El Agustino Nº 176"
+  }
+},
+{
+  "type": "way",
+  "id": 318340434,
+  "center": {
+    "lat": -12.0494842,
+    "lon": -76.9752439
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Santa Anita - Técnico CBP Carlos León Delgado Nº 138"
+  }
+},
+{
+  "type": "way",
+  "id": 318346596,
+  "center": {
+    "lat": -11.9742631,
+    "lon": -76.7622731
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Chaclacayo Nº 115"
+  }
+},
+{
+  "type": "way",
+  "id": 318350020,
+  "center": {
+    "lat": -12.0363160,
+    "lon": -77.0280365
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Rímac Nº 21"
+  }
+},
+{
+  "type": "way",
+  "id": 318351403,
+  "center": {
+    "lat": -11.9787096,
+    "lon": -77.0059261
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos San Juan de Lurigancho Nº 121"
+  }
+},
+{
+  "type": "way",
+  "id": 318373783,
+  "center": {
+    "lat": -12.0076666,
+    "lon": -77.0724893
+  },
+  "tags": {
+    "addr:full": "Calle 36 Mz. K, Lt. 15, Urb. Trebol 3era Etapa",
+    "alt_name": "XXV Comandancia Departamental Lima Norte",
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Los Olivos Nº 161"
+  }
+},
+{
+  "type": "way",
+  "id": 318374771,
+  "center": {
+    "lat": -11.9966129,
+    "lon": -77.0541466
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "building:levels": "1",
+    "height": "6",
+    "name": "Compañía de Bomberos Independencia Nº 168"
+  }
+},
+{
+  "type": "way",
+  "id": 318375227,
+  "center": {
+    "lat": -11.9427860,
+    "lon": -77.0623956
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Comas Nº 124"
+  }
+},
+{
+  "type": "way",
+  "id": 318377837,
+  "center": {
+    "lat": -11.9024139,
+    "lon": -77.0333277
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Carabayllo Nº 164"
+  }
+},
+{
+  "type": "way",
+  "id": 318378906,
+  "center": {
+    "lat": -11.8672678,
+    "lon": -77.0789205
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Puente Piedra - Brigadier CBP Julio Upichihua Cárdenas Nº 150"
+  }
+},
+{
+  "type": "way",
+  "id": 318381493,
+  "center": {
+    "lat": -11.7720660,
+    "lon": -77.1724522
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Compañía de Bomberos Ancón Nº 163"
+  }
+},
+{
+  "type": "way",
+  "id": 320104922,
+  "center": {
+    "lat": -11.7780721,
+    "lon": -77.1621994
+  },
+  "tags": {
+    "addr:city": "Ancon",
+    "addr:neighbourhood": "Urbanización San José",
+    "addr:state": "Lima",
+    "addr:street": "Calle Pacto Andino",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro de Salud San José",
+    "opening_hours": "Mo-Sa 07:00-18:00",
+    "operator": "Ministerio de Salud del Perú",
+    "operator:short": "MINSA",
+    "operator:type": "government",
+    "operator:wikidata": "Q3065012",
+    "phone": "+51 1 5245156",
+    "ref:category": "I-3",
+    "ref:microred": "2",
+    "ref:red": "26"
+  }
+},
+{
+  "type": "way",
+  "id": 320125239,
+  "center": {
+    "lat": -12.0154571,
+    "lon": -76.8203254
+  },
+  "tags": {
+    "addr:street": "Avenida José Carlos Mariátegui",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "paediatrics;dentistry;emergency",
+    "name": "Hospital Huaycán",
+    "operator": "Ministerio de Salud del Perú",
+    "operator:type": "public",
+    "pe:minsa:categoria": "II-1",
+    "phone": "+51 1 3716797",
+    "website": "https://www.hospitalhuaycan.gob.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 320415894,
+  "center": {
+    "lat": -12.0263522,
+    "lon": -76.9198550
+  },
+  "tags": {
+    "addr:housenumber": "5880",
+    "addr:street": "Avenida Nicolas Ayllon",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "fax": "+51 1 3514420",
+    "healthcare": "hospital",
+    "name": "Hospital Vitarte",
+    "operator": "Ministerio de Salud del Perú",
+    "phone": "+51 1 3514484; +51 1 3516059",
+    "ref:category": "II-1",
+    "website": "http://www.hospitalvitarte.gob.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 338350659,
+  "center": {
+    "lat": -12.1126056,
+    "lon": -76.9985145
+  },
+  "tags": {
+    "addr:city": "Surquillo",
+    "addr:housenumber": "2520",
+    "addr:street": "Avenida Angamos Este",
+    "amenity": "hospital",
+    "email": "comunicaciones@inen.sld.pe",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "oncology",
+    "name": "Instituto Nacional de Enfermedades Neoplásicas",
+    "operator": "Ministerio de Salud del Perú",
+    "operator:short": "MINSA",
+    "operator:type": "government",
+    "operator:wikidata": "Q3065012",
+    "phone": "+51 1 2016500;+51 1 2016160",
+    "website": "http://www.inen.sld.pe/portal/",
+    "wikidata": "Q5917528",
+    "wikipedia": "es:Instituto Nacional de Enfermedades Neoplásicas"
+  }
+},
+{
+  "type": "way",
+  "id": 370242982,
+  "center": {
+    "lat": -12.1986840,
+    "lon": -76.9460858
+  },
+  "tags": {
+    "addr:city": "Villa El Salvador",
+    "addr:district": "Villa el Salvador",
+    "addr:street": "Avenida Los Angeles",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "maternity",
+    "name": "Centro Materno Infantil San José",
+    "opening_hours": "24/7",
+    "operator": "Ministerio de Salud",
+    "operator:type": "public",
+    "phone": "+511 2920104",
+    "ref:category": "I-4",
+    "ref:microred": "1",
+    "ref:red": "3",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 370795534,
+  "center": {
+    "lat": -12.1778068,
+    "lon": -76.9456737
+  },
+  "tags": {
+    "addr:city": "Villa María del Triunfo",
+    "addr:housenumber": "3470",
+    "addr:street": "Avenida Pachacutec",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "maternity",
+    "name": "Centro Materno Infantil Daniel Alcides Carrión",
+    "opening_hours": "24/7",
+    "operator": "Ministerio de Salud",
+    "operator:type": "public",
+    "phone": "+511 4505684",
+    "ref:category": "I-4",
+    "ref:microred": "7",
+    "ref:red": "2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 370798546,
+  "center": {
+    "lat": -12.1775909,
+    "lon": -76.9407980
+  },
+  "tags": {
+    "addr:city": "Villa María del Triunfo",
+    "addr:full": "Avenida 26 de Noviembre con Avenida Defensores de Lima, Villa Maria del Triunfo",
+    "addr:street": "Avenida 26 de Noviembre",
+    "amenity": "hospital",
+    "contact:facebook": "https://www.facebook.com/complejohospitalarioguillermokaelin",
+    "contact:twitter": "https://twitter.com/ComplejoKaelin",
+    "contact:youtube": "https://www.youtube.com/user/APPSaludPeru",
+    "description": "El horario es para consultas.\nLa entrada de emergencia es por la Av, Defensores de Lima",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Hospital Guillermo Kaelín de la Fuente",
+    "opening_hours": "Mo-Sa 07:00-13:00, 14:00-20:00; Sa 07:00-13:00",
+    "operator": "Villa María del Triunfo Salud S.A.C.",
+    "operator:type": "private",
+    "phone": "+511 2051200",
+    "website": "https://www.vmtsalud.com.pe/el-hospital",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 371266564,
+  "center": {
+    "lat": -12.2304117,
+    "lon": -76.9235885
+  },
+  "tags": {
+    "addr:city": "Villa El Salvador",
+    "addr:street": "Vereda 32",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "maternity",
+    "name": "Centro Materno Infantil César López Silva",
+    "opening_hours": "24/7",
+    "operator": "Ministerio de Salud",
+    "operator:type": "public",
+    "phone": "+511 2930274",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 372661035,
+  "center": {
+    "lat": -12.2320835,
+    "lon": -76.9348658
+  },
+  "tags": {
+    "addr:city": "Villa El Salvador",
+    "addr:district": "Villa El Salvador",
+    "addr:street": "Avenida 200 millas",
+    "amenity": "hospital",
+    "contact:email": "info@heves.gob.pe",
+    "contact:phone": "+511 6409875",
+    "contact:website": "http://www.heves.gob.pe/portal/",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "surgery;gynaecology;pulmonology;gastroenterology;neurology;neurosurgery;ophthalmology;otolaryngology;paediatrics;trauma;urology;psychiatry;endocrinology;plastic_surgery;internal",
+    "name": "Hospital de Emergencias Villa El Salvador",
+    "name:en": "Villa El Salvador Emergency Hospital",
+    "name:fr": "Hôpital d'urgence Villa El Salvador",
+    "name:it": "Ospedale di emergenza Villa El Salvador",
+    "name:pt": "Hospital de emergência Villa El Salvador",
+    "operator": "Ministerio de Salud",
+    "operator:type": "government",
+    "start_date": "2016-04-07"
+  }
+},
+{
+  "type": "way",
+  "id": 384203102,
+  "center": {
+    "lat": -12.0458080,
+    "lon": -76.9459986
+  },
+  "tags": {
+    "addr:city": "Santa Anita",
+    "addr:housenumber": "Km. 3.5",
+    "addr:state": "Lima",
+    "addr:street": "Carretera Central",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Hermilio Valdizán",
+    "phone": "+51 1 3544747;+51 1 3542416",
+    "source": "www.minsa.gob.pe",
+    "website": "http://www.hhv.gob.pe"
+  }
+},
+{
+  "type": "way",
+  "id": 391908588,
+  "center": {
+    "lat": -12.0370087,
+    "lon": -77.0351378
+  },
+  "tags": {
+    "addr:city": "Rímac",
+    "addr:housenumber": "585",
+    "addr:postcode": "15094",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Francisco Pizarro",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Policlínico Francisco Pizarro",
+    "operator": "EsSalud",
+    "operator:type": "public",
+    "phone": "+511 4829995",
+    "start_date": "1984"
+  }
+},
+{
+  "type": "way",
+  "id": 391950856,
+  "center": {
+    "lat": -12.0351778,
+    "lon": -77.0338268
+  },
+  "tags": {
+    "addr:city": "Rímac",
+    "addr:state": "Lima",
+    "addr:street": "Jirón San Germán",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Hospital Augusto B. Leguía",
+    "note": "Consultado de https://www.pnp.gob.pe/direcciones/fospoli/emergencia.html y de la noticia http://www.andina.com.pe/agencia/noticia-hospital-augusto-b-leguia-descarta-negligencia-medica-muerte-mujer-policia-279136.aspx",
+    "operator": "Policía Nacional del Perú",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 391969601,
+  "center": {
+    "lat": -12.1479973,
+    "lon": -76.9839532
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Municipal Surco Salud",
+    "source": "Reconocimiento cartográfico por Kaart 2017"
+  }
+},
+{
+  "type": "way",
+  "id": 393487901,
+  "center": {
+    "lat": -12.0342808,
+    "lon": -77.0333512
+  },
+  "tags": {
+    "addr:city": "Rímac",
+    "addr:state": "Lima",
+    "addr:street": "Jirón San Germán",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "maternity",
+    "name": "Centro Materno Infantil Rímac",
+    "operator": "Ministerio de Salud",
+    "operator:short": "MINSA",
+    "operator:type": "government",
+    "operator:wikidata": "Q3065012",
+    "pe:minsa:categoria": "I-4",
+    "pe:renaes:codigo": "5644",
+    "phone": "+51 1 4812895",
+    "start_date": "1943-07-19"
+  }
+},
+{
+  "type": "way",
+  "id": 394469163,
+  "center": {
+    "lat": -12.1675144,
+    "lon": -77.0191398
+  },
+  "tags": {
+    "addr:city": "Chorrillos",
+    "addr:housenumber": "990",
+    "addr:street": "Avenida Panamericana Sur",
+    "amenity": "hospital",
+    "building": "roof",
+    "building:levels": "1",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Chorrillos",
+    "old_name": "Hospital de la Solidaridad Chorrillos",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "phone": "+511 467 1684",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 397720849,
+  "center": {
+    "lat": -11.9816277,
+    "lon": -77.0715761
+  },
+  "tags": {
+    "addr:street": "Avenida Las Palmeras",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Carlos Cueto Fernandini",
+    "operator": "Ministerio de Salud del Perú",
+    "operator:short": "MINSA",
+    "operator:type": "government",
+    "operator:wikidata": "Q3065012",
+    "phone": "+511 5213440",
+    "ref:category": "I-3",
+    "ref:microred": "3",
+    "ref:red": "25",
+    "wikimedia_commons": "File:Centro_de_Salud_Carlos_Cueto_Fernandini.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 398850206,
+  "center": {
+    "lat": -12.0492017,
+    "lon": -77.0682214
+  },
+  "tags": {
+    "addr:city": "Cercado de Lima",
+    "addr:full": "Av. Colonial Cdra. 19",
+    "addr:street": "Avenida Óscar Raimundo Benavides",
+    "amenity": "hospital",
+    "building": "roof",
+    "building:levels": "1",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Mirones",
+    "old_name": "Hospital de la Solidaridad Mirones",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "phone": "+511 336 8228",
+    "website": "https://www.sisol.gob.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 399741679,
+  "center": {
+    "lat": -11.8855408,
+    "lon": -77.1257929
+  },
+  "tags": {
+    "addr:street": "Avenida Nestor Gambetta",
+    "amenity": "hospital",
+    "name": "Hospital Chalaco II"
+  }
+},
+{
+  "type": "way",
+  "id": 401495205,
+  "center": {
+    "lat": -12.0863606,
+    "lon": -77.0276360
+  },
+  "tags": {
+    "addr:housenumber": "223",
+    "addr:street": "Calle Las Lilas",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro de Atención Primaria Alfredo Piazza Roberts",
+    "operator": "Seguro Social de Salud",
+    "operator:short": "Essalud",
+    "operator:type": "government",
+    "operator:wikidata": "Q6123930",
+    "phone": "+51 1 2250526",
+    "ref:category": "I-3",
+    "source": "Reconocimiento cartográfico de campo 2016 por KG"
+  }
+},
+{
+  "type": "way",
+  "id": 405698392,
+  "center": {
+    "lat": -11.8285743,
+    "lon": -77.1199428
+  },
+  "tags": {
+    "addr:street": "Carretera Panamericana Norte",
+    "amenity": "hospital",
+    "name": "Hospital Chalaco III"
+  }
+},
+{
+  "type": "way",
+  "id": 406620283,
+  "center": {
+    "lat": -12.0412612,
+    "lon": -76.9925770
+  },
+  "tags": {
+    "addr:city": "El Agustino",
+    "addr:housenumber": "1390",
+    "addr:street": "Avenida César Vallejo",
+    "amenity": "hospital",
+    "contact:email": "informes@hnhu.gob.pe",
+    "contact:facebook": "https://www.facebook.com/Hospital-Nacional-Hip%C3%B3lito-Unanue-Oficial-549008455109481/",
+    "contact:twitter": "https://twitter.com/HospitalUnanue",
+    "contact:website": "http://www.hnhu.gob.pe/Inicio/",
+    "contact:youtube": "https://www.youtube.com/user/COMUNICACIONESHNHU",
+    "emergency": "yes",
+    "fax": "+51 1 3628619",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional Hipólito Unanue",
+    "phone": "+51 1 3625700; +51 1 3627777"
+  }
+},
+{
+  "type": "way",
+  "id": 406622143,
+  "center": {
+    "lat": -12.0394851,
+    "lon": -76.9971154
+  },
+  "tags": {
+    "addr:city": "El Agustino",
+    "addr:street": "Avenida César Vallejo",
+    "amenity": "hospital",
+    "building": "roof",
+    "building:levels": "1",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud El Agustino",
+    "old_name": "Hospital de la Solidaridad El Agustino",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "phone": "+511 358 0954",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 412486776,
+  "center": {
+    "lat": -12.0614801,
+    "lon": -77.0217478
+  },
+  "tags": {
+    "addr:city": "La Victoria",
+    "addr:housenumber": "1960",
+    "addr:street": "Jirón Manuel Cisneros",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro de Rehabilitación Personal La Victoria",
+    "operator": "Ministerio de Salud",
+    "operator:short": "MINSA",
+    "operator:wikidata": "Q3065012"
+  }
+},
+{
+  "type": "way",
+  "id": 413980339,
+  "center": {
+    "lat": -12.0455757,
+    "lon": -77.0160882
+  },
+  "tags": {
+    "addr:city": "Cercado de Lima",
+    "addr:housenumber": "1270",
+    "addr:street": "Jirón Ancash",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Instituto Nacional de Ciencias Neurológicas",
+    "operator": "Minsa",
+    "phone": "+51 1 4117700",
+    "ref:category": "III-2"
+  }
+},
+{
+  "type": "way",
+  "id": 413981813,
+  "center": {
+    "lat": -12.0533618,
+    "lon": -77.0224306
+  },
+  "tags": {
+    "addr:city": "Barrios Altos",
+    "addr:housenumber": "927",
+    "addr:street": "Jirón Huanta",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centro de Salud - Raul Patrucco Puig",
+    "phone": "+51 1 3289053",
+    "website": "https://raulpatruccopuig.weebly.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 419918941,
+  "center": {
+    "lat": -12.1918734,
+    "lon": -77.0031664
+  },
+  "tags": {
+    "addr:city": "Chorrillos",
+    "addr:housenumber": "213;215",
+    "addr:street": "Avenida Defensores del Morro",
+    "amenity": "hospital",
+    "contact:facebook": "https://www.facebook.com/InstitutoNacionalRehabilitacion/",
+    "contact:youtube": "https://www.youtube.com/profile?user=VideosInr2",
+    "email": "dg@inr.gob.pe",
+    "healthcare": "hospital",
+    "healthcare:speciality": "rehabilitation;physiotherapist",
+    "name": "Instituto Nacional de Rehabilitación",
+    "official_name": "Instituto Nacional de Rehabilitación Doctora Adriana Rebaza Flores Amistad Perú - Japón",
+    "operator": "Ministerio de Salud",
+    "operator:short": "MINSA",
+    "operator:type": "government",
+    "operator:wikidata": "Q3065012",
+    "operator:wikipedia": "en:Ministry of Health (Peru)",
+    "phone": "+511 7173200",
+    "ref:category": "III-E",
+    "start_date": "1962-07-14",
+    "website": "https://www.inr.gob.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 420078496,
+  "center": {
+    "lat": -12.0483235,
+    "lon": -77.1077104
+  },
+  "tags": {
+    "addr:city": "Callao",
+    "addr:housenumber": "3525",
+    "addr:street": "Avenida República Argentina",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "3",
+    "emergency": "yes",
+    "name": "Hospital Alberto Leopoldo Barton Thompson",
+    "phone": "+51 1 2050300",
+    "website": "https://www.callaosalud.com.pe/el-hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 428111371,
+  "center": {
+    "lat": -12.0631792,
+    "lon": -77.1331135
+  },
+  "tags": {
+    "addr:housenumber": "535",
+    "addr:street": "Jirón Andres Vigil",
+    "amenity": "hospital",
+    "name": "Hospital de Rehabilitación",
+    "operator": "Gobierno regional del Callao",
+    "phone": "+51 1 4650048",
+    "ref:category": "II-E",
+    "ref:microred": "4",
+    "ref:red": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 431592740,
+  "center": {
+    "lat": -12.1133097,
+    "lon": -77.0281371
+  },
+  "tags": {
+    "addr:city": "Miraflores",
+    "addr:housenumber": "261",
+    "addr:postcode": "15046",
+    "addr:street": "Avenida Angamos Este",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Hospital III Suarez Angamos",
+    "name:es": "Hospital Nivel III Suarez Angamos",
+    "operator": "ESSALUD",
+    "phone": "+511 2412154",
+    "source": "http://www.essalud.gob.pe/nuestras-redes-asistenciales/miraflores/",
+    "source_1": "Reconocimiento cartográfico de campo 2016 por KG"
+  }
+},
+{
+  "type": "way",
+  "id": 431593693,
+  "center": {
+    "lat": -12.1038117,
+    "lon": -77.0299280
+  },
+  "tags": {
+    "addr:city": "Miraflores",
+    "addr:postcode": "15046",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Andrés Aramburú",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Central FAP",
+    "operator": "Sanidad de la Fuerza Aerea del Peru",
+    "phone": "+511 5134300",
+    "ref:category": "III-1"
+  }
+},
+{
+  "type": "way",
+  "id": 433817288,
+  "center": {
+    "lat": -12.0587576,
+    "lon": -77.0898620
+  },
+  "tags": {
+    "addr:city": "Bellavista",
+    "addr:housenumber": "3400",
+    "addr:street": "Avenida República de Venezuela",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "loc_name": "Hospital Naval",
+    "name": "Hospital Centro Médico Naval",
+    "official_name": "Centro médico naval cirujano Mayor Santiago Távara",
+    "operator": "Marina de Guerra del Perú",
+    "phone": "+51 1 2071600",
+    "short_name": "CEMENA",
+    "website": "https://www.disamar.mil.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 435365523,
+  "center": {
+    "lat": -11.8959850,
+    "lon": -77.0434628
+  },
+  "tags": {
+    "addr:city": "Comas",
+    "addr:housename": "Posta Médica Los Geranios",
+    "addr:postcode": "15316",
+    "addr:street": "Mariano Condorcanqui",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Posta Médica Los Geranios",
+    "source": "Reconocimiento cartográfico por KG 2016."
+  }
+},
+{
+  "type": "way",
+  "id": 435485146,
+  "center": {
+    "lat": -12.0588893,
+    "lon": -77.0310513
+  },
+  "tags": {
+    "addr:city": "La Victoria",
+    "addr:housenumber": "351",
+    "addr:street": "Avenida Almirante Miguel Grau",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "emergency",
+    "name": "Hospital de Emergencias Grau",
+    "operator": "EsSalud",
+    "operator:type": "public",
+    "phone": "+511 4282327",
+    "ref:category": "II-2",
+    "ref:microred": "0",
+    "ref:red": "0"
+  }
+},
+{
+  "type": "way",
+  "id": 435520977,
+  "center": {
+    "lat": -11.8724109,
+    "lon": -77.1256845
+  },
+  "tags": {
+    "addr:city": "Ventanilla",
+    "addr:street": "Avenida Pedro Beltrán",
+    "amenity": "hospital",
+    "name": "Hospital de Ventanilla",
+    "operator": "Gobierno Regional",
+    "ref:category": "II-1",
+    "ref:microred": "0",
+    "ref:red": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 436277181,
+  "center": {
+    "lat": -12.2194439,
+    "lon": -76.9459172
+  },
+  "tags": {
+    "addr:city": "Villa El Salvador",
+    "addr:street": "Avenida César Vallejo",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "maternity",
+    "name": "Centro Materno Infantil Juan Pablo II",
+    "opening_hours": "24/7",
+    "operator": "Ministerio de Salud",
+    "operator:type": "public",
+    "phone": "+511 2879952",
+    "ref:category": "I-4",
+    "ref:microred": "2",
+    "ref:red": "3",
+    "source": "Bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 436278843,
+  "center": {
+    "lat": -12.0840314,
+    "lon": -77.0395119
+  },
+  "tags": {
+    "addr:city": "Lince",
+    "addr:housenumber": "550",
+    "addr:street": "Avenida General César Canevaro",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "5",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Lince",
+    "old_name": "Hospital de la Solidaridad Lince",
+    "opening_hours": "07:00-18:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "phone": "+511 472 6755",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 436736892,
+  "center": {
+    "lat": -12.0588438,
+    "lon": -77.1047898
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centro de Salud Municipal Bellavista",
+    "source": "Reconocimiento cartográfico por KG 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 437364307,
+  "center": {
+    "lat": -11.9864097,
+    "lon": -77.0080741
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "6",
+    "healthcare": "hospital",
+    "name": "Clinica Limatambo",
+    "source": "Reconocimiento cartográfico por KG 2016."
+  }
+},
+{
+  "type": "way",
+  "id": 437496535,
+  "center": {
+    "lat": -12.0609181,
+    "lon": -77.0299400
+  },
+  "tags": {
+    "addr:city": "La Victoria",
+    "addr:full": "Calle Manco Cápac 218, La Victoria",
+    "addr:housenumber": "218",
+    "addr:street": "Avenida Manco Cápac",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "5",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud La Victoria",
+    "old_name": "Hospital de la Solidaridad La Victoria",
+    "opening_hours": "Mo-Sa 08:00-18:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "operator:wikidata": "Q12184118",
+    "phone": "+511 272 9421",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 437642241,
+  "center": {
+    "lat": -12.1642364,
+    "lon": -76.9696938
+  },
+  "tags": {
+    "addr:city": "San Juan de Miraflores",
+    "addr:street": "Avenida César Canevaro",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro de Atencion Primaria Essalud",
+    "operator": "Seguro Social de Salud",
+    "operator:short": "Essalud",
+    "operator:type": "government",
+    "operator:wikidata": "Q6123930",
+    "phone": "+511 2760812",
+    "ref:category": "I-3",
+    "ref:microred": "0",
+    "ref:red": "0"
+  }
+},
+{
+  "type": "way",
+  "id": 437683615,
+  "center": {
+    "lat": -12.1716877,
+    "lon": -76.9455733
+  },
+  "tags": {
+    "addr:city": "Villa María del Triunfo",
+    "addr:full": "Av. Salvador Allende Cdra. 16",
+    "addr:street": "Avenida Nicolás de Piérola",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Villa María del Triunfo",
+    "old_name": "Hospital de La Solidaridad Villa María del Triunfo",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "operator:type": "public",
+    "phone": "+511 2960128",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 438039050,
+  "center": {
+    "lat": -12.0306442,
+    "lon": -77.0901780
+  },
+  "tags": {
+    "addr:city": "San Martín de Porres",
+    "addr:housenumber": "3811",
+    "addr:street": "Avenida Perú",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hospital de la Solidaridad",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "phone": "+51 1 5721123",
+    "source": "Reconocimiento terrestre cartográfico realizado por Kaart en 2016",
+    "toilets:wheelchair": "no",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Hay ascensor pero no llega a todos los pisos. Hay puertas demasiado estrechas en algunos consultorios. No dan atención preferencial y cuando la pides te dan mal trato."
+  }
+},
+{
+  "type": "way",
+  "id": 438467230,
+  "center": {
+    "lat": -12.0206015,
+    "lon": -77.0565104
+  },
+  "tags": {
+    "addr:city": "San Martín de Porres",
+    "addr:full": "Jirón Eloy Espinoza Saldaña 709 - Urb. Palao",
+    "amenity": "hospital",
+    "name": "Instituto Nacional Honorio Delgado - Hideyo Noguchi",
+    "operator": "Minsa",
+    "phone": "+511 6149200",
+    "ref:category": "III-2",
+    "ref:microred": "0",
+    "ref:red": "0",
+    "source": "Reconocimiento cartográfico por KG 2016."
+  }
+},
+{
+  "type": "way",
+  "id": 439241364,
+  "center": {
+    "lat": -12.0131949,
+    "lon": -77.0516846
+  },
+  "tags": {
+    "addr:district": "Rímac",
+    "addr:street": "Avenida Túpac Amaru",
+    "amenity": "hospital",
+    "building": "roof",
+    "building:levels": "1",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Metro UNI",
+    "old_name": "Hospital de la Solidaridad Metro UNI",
+    "opening_hours": "Mo-Sa 07:00-19:30",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "operator:wikidata": "Q12184118",
+    "phone": "+51 1 5348556",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 439627528,
+  "center": {
+    "lat": -12.0155894,
+    "lon": -77.0978726
+  },
+  "tags": {
+    "addr:city": "Callao",
+    "addr:housenumber": "3535",
+    "addr:postcode": "07036",
+    "addr:street": "Avenida Tomás Valle",
+    "alt_name": "Policlínico Luis Negreiros Vega",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Luis Negreiros Vega",
+    "operator": "EsSalud",
+    "phone": "+51 1 5747024",
+    "website": "http://www.essalud.gob.pe/nuestras-redes-asistenciales/callao/"
+  }
+},
+{
+  "type": "way",
+  "id": 439895202,
+  "center": {
+    "lat": -12.0200432,
+    "lon": -77.1027558
+  },
+  "tags": {
+    "addr:street": "Avenida Tomas Valle",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Chalaco",
+    "operator": "Gobierno Regional del Callao",
+    "operator:type": "government",
+    "operator:wikidata": "Q3824815",
+    "phone": "+51 1 7861109",
+    "website": "http://www.municallao.gob.pe/index.php/hospital-chalaco"
+  }
+},
+{
+  "type": "way",
+  "id": 440417250,
+  "center": {
+    "lat": -12.0369030,
+    "lon": -77.0845143
+  },
+  "tags": {
+    "addr:street": "Avenida Vicente Morales Duarez",
+    "amenity": "fire_station",
+    "name": "N 15 Carmen de la Legua"
+  }
+},
+{
+  "type": "way",
+  "id": 442795790,
+  "center": {
+    "lat": -12.1824530,
+    "lon": -77.0165561
+  },
+  "tags": {
+    "addr:city": "Chorrillos",
+    "addr:housenumber": "2268",
+    "addr:postcode": "15066",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Defensores del Morro",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "description": "Sede Chorrillos",
+    "name": "Instituto Nacional de Salud",
+    "opening_hours": "Mo-Fr 08:00-16:15",
+    "operator": "Ministerio de Salud",
+    "phone": "+51 1 7480000",
+    "website": "http://www.portal.ins.gob.pe/es/"
+  }
+},
+{
+  "type": "way",
+  "id": 445502597,
+  "center": {
+    "lat": -12.1087954,
+    "lon": -77.0120165
+  },
+  "tags": {
+    "addr:city": "Surquillo",
+    "addr:street": "Martin Luther King",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "3",
+    "height": "8.75",
+    "name": "Centro de Salud Villa Victoria",
+    "website": "https://www.rslc.gob.pe/web/establecimientos-m4/53-c-s-v-victoria-porvenir"
+  }
+},
+{
+  "type": "way",
+  "id": 445599680,
+  "center": {
+    "lat": -12.2103901,
+    "lon": -76.8769928
+  },
+  "tags": {
+    "addr:street": "Avenida Roque Saenz Peña",
+    "amenity": "hospital",
+    "name": "Puesto de Salud Quebrada Verde",
+    "operator": "Minsa",
+    "phone": "+511 2311006",
+    "ref:category": "I-2",
+    "ref:microred": "6",
+    "ref:red": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 446209514,
+  "center": {
+    "lat": -12.0176820,
+    "lon": -77.0785575
+  },
+  "tags": {
+    "addr:full": "Jirón Fermin Nacario N° 112 - Coop. Amakella 2da. Etapa",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Ama Kella II",
+    "operator": "Ministerio de Salud",
+    "operator:short": "MINSA",
+    "operator:wikidata": "Q3065012",
+    "operator:wikipedia": "en:Ministry of Health (Peru)",
+    "phone": "+511 5680518",
+    "ref:category": "I-3",
+    "ref:microred": "2",
+    "ref:red": "25"
+  }
+},
+{
+  "type": "way",
+  "id": 446549659,
+  "center": {
+    "lat": -12.0618131,
+    "lon": -77.1068552
+  },
+  "tags": {
+    "addr:city": "Bellavista",
+    "addr:street": "Calle 49",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centro de Salud Perú-Korea Bellavista",
+    "phone": "+51 996207960",
+    "ref:category": "I-4",
+    "ref:microred": "4",
+    "ref:red": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 450128393,
+  "center": {
+    "lat": -12.0785806,
+    "lon": -77.0371483
+  },
+  "tags": {
+    "addr:city": "Jesús María",
+    "addr:housenumber": "1402",
+    "addr:street": "Avenida Álvarez de Arenales",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Complejo Hospitalario Arenales",
+    "operator": "EsSalud",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 456121389,
+  "center": {
+    "lat": -12.0411843,
+    "lon": -76.9689242
+  },
+  "tags": {
+    "addr:street": "Calle los Mochicas",
+    "amenity": "hospital",
+    "name": "Centro Materno Infantil Santa Anita",
+    "operator": "Minsa",
+    "ref:category": "I-4",
+    "ref:microred": "2",
+    "ref:red": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 465231306,
+  "center": {
+    "lat": -11.7744799,
+    "lon": -77.1727604
+  },
+  "tags": {
+    "addr:city": "Lima",
+    "addr:district": "Ancón",
+    "addr:housenumber": "595",
+    "addr:postcode": "15123",
+    "addr:street": "Jirón Loa",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Centro de Salud Materno Infantil Ancón",
+    "opening_hours": "24/7",
+    "operator": "Ministerio de Salud del Perú",
+    "operator:short": "MINSA",
+    "operator:type": "government",
+    "operator:wikidata": "Q3065012",
+    "phone": "+51 1 5521713;+51 1 5245141",
+    "ref:category": "I-4",
+    "ref:microred": "2",
+    "ref:red": "26"
+  }
+},
+{
+  "type": "way",
+  "id": 465561830,
+  "center": {
+    "lat": -11.8690825,
+    "lon": -77.0711593
+  },
+  "tags": {
+    "addr:city": "Puente Piedra",
+    "addr:full": "Panamericana Norte Km. 30, Puente Piedra",
+    "addr:street": "Panamericana Norte",
+    "amenity": "hospital",
+    "building": "roof",
+    "building:levels": "1",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Puente Piedra",
+    "old_name": "Hospital de la Solidaridad Puente Piedra",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "operator:type": "government",
+    "operator:wikidata": "Q12184118",
+    "phone": "+511 548 0573",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 467541142,
+  "center": {
+    "lat": -12.0259705,
+    "lon": -76.9173553
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hospital de Lima Este - Vitarte"
+  }
+},
+{
+  "type": "way",
+  "id": 467541158,
+  "center": {
+    "lat": -12.0270597,
+    "lon": -76.9237198
+  },
+  "tags": {
+    "addr:housenumber": "265",
+    "addr:street": "Jirón San Martín de Porres",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Essalud II Vitarte",
+    "phone": "+51 4942983;+51 1 4942999",
+    "ref": "00008353",
+    "ref:category": "II-1"
+  }
+},
+{
+  "type": "way",
+  "id": 468780933,
+  "center": {
+    "lat": -11.8865050,
+    "lon": -77.1243860
+  },
+  "tags": {
+    "addr:full": "Avenida Gonzales Ganoza - Urbanización Antonio Moreno de Caceres",
+    "amenity": "hospital",
+    "name": "Policlinico Hna. María Donrose Sutmoller",
+    "operator": "Essalud",
+    "phone": "+511 5534245",
+    "ref:category": "I-3",
+    "ref:microred": "0",
+    "ref:red": "0"
+  }
+},
+{
+  "type": "way",
+  "id": 476226205,
+  "center": {
+    "lat": -12.0574631,
+    "lon": -77.0339022
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clínica Maison de Sante"
+  }
+},
+{
+  "type": "way",
+  "id": 483500696,
+  "center": {
+    "lat": -11.9868928,
+    "lon": -76.8137426
+  },
+  "tags": {
+    "addr:street": "Carretera Central Kilometro 19.5, Coop.Viv. Miguel Grau",
+    "amenity": "hospital",
+    "name": "Centro Materno Infantil Miguel Grau",
+    "operator": "Minsa",
+    "phone": "+51 1 3593231; +51 1 3590331",
+    "ref:category": "I-4",
+    "ref:microred": "7",
+    "ref:red": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 485244256,
+  "center": {
+    "lat": -12.0497716,
+    "lon": -77.0418067
+  },
+  "tags": {
+    "addr:city": "Cercado de Lima",
+    "addr:housenumber": "825",
+    "addr:street": "Avenida Alfonso Ugarte",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "fax": "+51 1 4315131",
+    "name": "Hospital Nacional Docente Madre Niño San Bartolome",
+    "phone": "+51 1 2010400",
+    "source": "www.minsa.gob.pe",
+    "website": "http://www.sanbartolome.gob.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 485409220,
+  "center": {
+    "lat": -12.0584042,
+    "lon": -77.0214361
+  },
+  "tags": {
+    "addr:city": "La Victoria",
+    "addr:housenumber": "854",
+    "addr:street": "Avenida Almirante Miguel Grau",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "fax": "+51 1 4749810;+51 1 4749808",
+    "name": "Hospital Especializado de Emergencias Pediatricas",
+    "phone": "+51 1 2158838;+51 1 3237464",
+    "source": "www.minsa.gob.pe",
+    "website": "http://www.hep.gob.pe"
+  }
+},
+{
+  "type": "way",
+  "id": 517495828,
+  "center": {
+    "lat": -12.0454468,
+    "lon": -76.9472387
+  },
+  "tags": {
+    "addr:city": "Santa Anita",
+    "addr:full": "Carretera Central Kilómetro 3.5",
+    "addr:state": "Lima",
+    "alt_name": "Jorge Voto Bernales Corpancho",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Jorge Voto Bernales",
+    "operator": "EsSalud",
+    "operator:type": "public",
+    "phone": "+51 1 3544747",
+    "ref": "00008318",
+    "ref:category": "II-1"
+  }
+},
+{
+  "type": "way",
+  "id": 525919060,
+  "center": {
+    "lat": -12.2434869,
+    "lon": -76.8747684
+  },
+  "tags": {
+    "addr:city": "Lurín",
+    "addr:street": "Jirón Huánuco",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro de Salud Villa Libertad",
+    "operator": "Ministerio de Salud",
+    "phone": "+511 2311798",
+    "ref:category": "I-2",
+    "ref:microred": "6",
+    "ref:red": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 554971747,
+  "center": {
+    "lat": -11.9751693,
+    "lon": -77.0023163
+  },
+  "tags": {
+    "addr:district": "San Juan de Lurigancho",
+    "addr:street": "Las Camelias",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Municipal de San Juan de Lurigancho",
+    "name:es": "Hospital Municipal de San Juan de Lurigancho"
+  }
+},
+{
+  "type": "way",
+  "id": 565936062,
+  "center": {
+    "lat": -12.0522981,
+    "lon": -77.0221020
+  },
+  "tags": {
+    "addr:city": "Cercado de Lima",
+    "addr:housenumber": "941",
+    "addr:street": "Jirón Santa Rosa",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Instituto Nacional Materno Perinatal",
+    "name:en": "National Perinatal Maternity Institute",
+    "old_addr:street": "Jirón Antonio Miró Quesada",
+    "operator": "Ministerio de Salud",
+    "operator:short": "MINSA",
+    "operator:wikidata": "Q3065012",
+    "operator:wikipedia": "en:Ministry of Health (Peru)",
+    "phone": "+51 1 3281370",
+    "website": "https://www.inmp.gob.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 568396654,
+  "center": {
+    "lat": -12.1661296,
+    "lon": -77.0202613
+  },
+  "tags": {
+    "addr:city": "Chorrillos",
+    "addr:housenumber": "200",
+    "addr:street": "Calle Leopoldo Arias",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Centro Materno Infantil Chorrillos II",
+    "operator": "Ministerio de Salud",
+    "phone": "+51 1 4673455",
+    "ref:category": "I-4",
+    "ref:microred": "1",
+    "ref:red": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 604765913,
+  "center": {
+    "lat": -12.0170928,
+    "lon": -77.0301330
+  },
+  "tags": {
+    "addr:city": "Rímac",
+    "addr:housenumber": "1377",
+    "addr:street": "Avenida Flor de Amancaes",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Amancaes",
+    "old_name": "Hospital de la Solidaridad Amancaes",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-14:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "phone": "+511 415 7970",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 618688385,
+  "center": {
+    "lat": -12.1281002,
+    "lon": -77.0177417
+  },
+  "tags": {
+    "addr:city": "Miraflores",
+    "addr:housenumber": "6355 - 6375",
+    "addr:postcode": "15048",
+    "addr:street": "Avenida Roosevelt",
+    "amenity": "hospital",
+    "email": "comunicaciones@hejcu.gob.pe",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Hospital José Casimiro Ulloa",
+    "operator": "MINSA",
+    "phone": "+511 2040900",
+    "website": "http://www.hejcu.gob.pe"
+  }
+},
+{
+  "type": "way",
+  "id": 677356153,
+  "center": {
+    "lat": -11.8420735,
+    "lon": -77.1500731
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "name": "Compañía de Bomberos Pachacútec Nº 232"
+  }
+},
+{
+  "type": "way",
+  "id": 699538736,
+  "center": {
+    "lat": -12.0289805,
+    "lon": -76.9262702
+  },
+  "tags": {
+    "addr:city": "Ate",
+    "addr:full": "Av. Rivadeneira Mz. F Lote 5 y 6 Urb. Ceres",
+    "addr:street": "Bernardino Rivadavia",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "5",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Ate",
+    "old_name": "Hospital de la Solidadridad ATE",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "phone": "+51 1 3850954",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 699540898,
+  "center": {
+    "lat": -12.0493096,
+    "lon": -77.0353334
+  },
+  "tags": {
+    "addr:city": "Cercado de Lima",
+    "addr:housenumber": "700",
+    "addr:street": "Jirón Camaná",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "7",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Camaná",
+    "old_name": "Hospital de la Solidaridad Camaná",
+    "opening_hours": "Mo-Sa 06:30-20:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "operator:wikidata": "Q12184118",
+    "phone": "+511 426 4619",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 699674838,
+  "center": {
+    "lat": -11.9792433,
+    "lon": -77.0768774
+  },
+  "tags": {
+    "addr:city": "Los Olivos",
+    "addr:housenumber": "3514",
+    "addr:street": "Avenida Universitaria",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "5",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Los Olivos",
+    "old_name": "Hospital de la Solidaridad Los Olivos",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "operator:type": "government",
+    "operator:wikidata": "Q12184118",
+    "phone": "+511 771 4627",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 699686753,
+  "center": {
+    "lat": -12.3269934,
+    "lon": -76.8248976
+  },
+  "tags": {
+    "addr:city": "Punta Hermosa",
+    "addr:full": "Antigua Panamericana Sur Km. 43, Punta Hermosa",
+    "addr:street": "Avenida Antigua Panamericana Sur",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Punta Hermosa",
+    "old_name": "Hospital de la Solidaridad Punta Hermosa",
+    "opening_hours": "Mo-Sa 07:30-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "phone": "+511 726 0130",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 720318095,
+  "center": {
+    "lat": -12.0521727,
+    "lon": -77.0450286
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "1",
+    "healthcare": "hospital",
+    "height": "4",
+    "material": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 720385352,
+  "center": {
+    "lat": -12.0524773,
+    "lon": -77.0444245
+  },
+  "tags": {
+    "addr:city": "Breña",
+    "addr:street": "Jirón Chavin",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:levels": "2",
+    "description": "NIVEL SOCIOECONOMICO DE RESIDENTES: MEDIO DENSIDAD DE POBLACIÓN RESIDENTE Y FLOTANTE: ALTO SISTEMA CONSTRUCTIVO: APORTICADO MATERIALES PREDOMINANTES: CONCRETO - LADRILLO ESTADO DE LA CONSTRUCCIÓN: BUENO",
+    "healthcare": "hospital",
+    "height": "6",
+    "name": "SINDICATO UNICO DE TRABAJADORES DE SALUD"
+  }
+},
+{
+  "type": "way",
+  "id": 777346011,
+  "center": {
+    "lat": -12.0642727,
+    "lon": -77.1218635
+  },
+  "tags": {
+    "addr:city": "Bellavista",
+    "addr:housenumber": "1081",
+    "addr:postcode": "07011",
+    "addr:state": "Callao",
+    "addr:street": "Jirón Colina",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional Alberto Sabogal Sologuren",
+    "old_name": "Policlínico Obrero del Callao",
+    "operator": "Seguro Social de Salud",
+    "operator:short": "Essalud",
+    "operator:type": "government",
+    "operator:wikidata": "Q6123930",
+    "phone": "+51 1 4297744",
+    "ref:category": "IV-4",
+    "ref:microred": "0",
+    "ref:red": "0",
+    "start_date": "1941-09-08",
+    "website": "http://www.essalud.gob.pe/centro-asistencial-de-essalud-alberto-sabogal-ya-es-hospital-nacional/",
+    "wikidata": "Q106357325",
+    "wikipedia": "es:Hospital Alberto Sabogal Sologuren"
+  }
+},
+{
+  "type": "way",
+  "id": 777346012,
+  "center": {
+    "lat": -12.0632677,
+    "lon": -77.1241176
+  },
+  "tags": {
+    "addr:housenumber": "2176",
+    "addr:street": "Avenida Guardia Chalaca",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional Daniel Alcides Carrión",
+    "operator": "Ministerio de Salud del Perú",
+    "operator:short": "MINSA",
+    "operator:type": "government",
+    "operator:wikidata": "Q3065012",
+    "phone": "+51 1 6147474",
+    "ref:category": "III-1",
+    "ref:microred": "0",
+    "ref:red": "0",
+    "start_date": "1941-12-30",
+    "wikidata": "Q44952951",
+    "wikipedia": "es: Hospital Nacional Daniel Alcides Carrión"
+  }
+},
+{
+  "type": "way",
+  "id": 780622087,
+  "center": {
+    "lat": -12.0656201,
+    "lon": -77.0943362
+  },
+  "tags": {
+    "addr:city": "San Miguel",
+    "addr:housenumber": "255",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Parque de las Leyendas",
+    "alt_name": "Centro de Aislamiento Villa Mongrut",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Policlínico Octavio Mongrut",
+    "operator": "Seguro Social de Salud",
+    "operator:short": "Essalud",
+    "operator:type": "government",
+    "operator:wikidata": "Q6123930",
+    "phone": "+511 3198060",
+    "ref:category": "II-1",
+    "ref:microred": "0",
+    "ref:red": "0"
+  }
+},
+{
+  "type": "way",
+  "id": 780628452,
+  "center": {
+    "lat": -12.1032022,
+    "lon": -77.0205560
+  },
+  "tags": {
+    "addr:city": "Surquillo",
+    "addr:housenumber": "290",
+    "addr:postcode": "15047",
+    "addr:street": "Calle Las Tiendas",
+    "amenity": "hospital",
+    "contact:facebook": "https://www.facebook.com/pages/Centro-Geri%C3%A1trico-FAP/187639401807089",
+    "healthcare": "hospital",
+    "healthcare:speciality": "geriatrics",
+    "name": "Instituto de Salud Oral FAP",
+    "operator": "Fuerza Aérea del Perú",
+    "operator:type": "government",
+    "website": "https://hospi.fap.mil.pe/"
+  }
+},
+{
+  "type": "way",
+  "id": 806448220,
+  "center": {
+    "lat": -12.0528170,
+    "lon": -77.0289031
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 831057544,
+  "center": {
+    "lat": -12.1619921,
+    "lon": -77.0199832
+  },
+  "tags": {
+    "addr:city": "Chorrillos",
+    "addr:street": "Avenida Escuela Militar",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "geriatrics",
+    "name": "Hospital Militar Geriátrico",
+    "old_name": "Instituto Geriátrico Militar",
+    "operator": "Ejército del Perú",
+    "operator:type": "military"
+  }
+},
+{
+  "type": "way",
+  "id": 835415398,
+  "center": {
+    "lat": -12.0636000,
+    "lon": -76.9459778
+  },
+  "tags": {
+    "addr:city": "La Molina",
+    "addr:housenumber": "956",
+    "addr:neighbourhood": "Urbanización Covima",
+    "addr:postcode": "15012",
+    "addr:street": "Avenida Flora Tristán",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro Médico Municipal Molisalud",
+    "operator": "Municipalidad de La Molina",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "way",
+  "id": 866156340,
+  "center": {
+    "lat": -12.0868606,
+    "lon": -77.0806031
+  },
+  "tags": {
+    "addr:city": "San Miguel",
+    "addr:housenumber": "590",
+    "addr:street": "Jirón Mariscal Ramón Castilla",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "geriatrics",
+    "name": "Hospital Geriátrico San José",
+    "opening_hours": "Mo-Fr 07:45-17:15; Sa 08:30-20:00",
+    "operator": "Policía Nacional del Perú",
+    "operator:type": "government",
+    "start_date": "1999-04-09"
+  }
+},
+{
+  "type": "way",
+  "id": 1016726371,
+  "center": {
+    "lat": -12.0712644,
+    "lon": -77.0133991
+  },
+  "tags": {
+    "addr:housenumber": "1200",
+    "addr:street": "Jirón Antonio Bazo",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "name": "Centro De Salud Mental Comunitario La Victoria",
+    "phone": "+51 1 7662447"
+  }
+},
+{
+  "type": "way",
+  "id": 1064411507,
+  "center": {
+    "lat": -12.0188756,
+    "lon": -77.1217739
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "building:colour": "#D5CFCF",
+    "building:material": "concrete",
+    "roof:colour": "#D5CFCF",
+    "roof:material": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1208921101,
+  "center": {
+    "lat": -12.0234297,
+    "lon": -77.0560288
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "emergency": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1340373104,
+  "center": {
+    "lat": -12.0848068,
+    "lon": -77.0591135
+  },
+  "tags": {
+    "addr:district": "Jesús María",
+    "addr:housenumber": "2600",
+    "addr:postcode": "15072",
+    "addr:state": "Lima",
+    "addr:street": "Avenida Brasil",
+    "alt_name": "Hospital de La Policía",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital Nacional PNP Luis N. Saenz",
+    "operator": "Policía Nacioanl del Perú",
+    "source": "Reconocimiento cartográfico de campo por KG 2016",
+    "website": "https://www.pnp.gob.pe/direcciones_policiales/dirsal/hospital_luis_saenz.html"
+  }
+},
+{
+  "type": "way",
+  "id": 1408453593,
+  "center": {
+    "lat": -11.7761821,
+    "lon": -77.1611407
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;emergency;paediatrics;radiology;physiatry;internal",
+    "name": "Futuro Centro Materno Infantil",
+    "operator": "Gobierno Regional",
+    "operator:type": "government",
+    "operator:wikidata": "Q3824815"
+  }
+},
+{
+  "type": "way",
+  "id": 1444376436,
+  "center": {
+    "lat": -12.2103786,
+    "lon": -76.8769021
+  },
+  "tags": {
+    "addr:street": "Avenida Roque Saenz Peña",
+    "amenity": "hospital",
+    "name": "Puesto de Salud Quebrada Verde",
+    "operator": "Minsa",
+    "phone": "+511 2311006",
+    "ref:category": "I-2",
+    "ref:microred": "6",
+    "ref:red": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 1444376437,
+  "center": {
+    "lat": -12.2103446,
+    "lon": -76.8769244
+  },
+  "tags": {
+    "addr:street": "Avenida Roque Saenz Peña",
+    "amenity": "hospital",
+    "name": "Puesto de Salud Quebrada Verde",
+    "operator": "Minsa",
+    "phone": "+511 2311006",
+    "ref:category": "I-2",
+    "ref:microred": "6",
+    "ref:red": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 1444376438,
+  "center": {
+    "lat": -12.2102957,
+    "lon": -76.8769626
+  },
+  "tags": {
+    "addr:street": "Avenida Roque Saenz Peña",
+    "amenity": "hospital",
+    "name": "Puesto de Salud Quebrada Verde",
+    "operator": "Minsa",
+    "phone": "+511 2311006",
+    "ref:category": "I-2",
+    "ref:microred": "6",
+    "ref:red": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 1499461722,
+  "center": {
+    "lat": -12.1096826,
+    "lon": -77.0271850
+  },
+  "tags": {
+    "addr:city": "Miraflores",
+    "addr:housenumber": "1070",
+    "addr:postcode": "15046",
+    "addr:state": "Lima",
+    "addr:street": "Calle General Suárez",
+    "amenity": "hospital",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Policlínico Suárez",
+    "operator": "Seguro Social de Salud",
+    "operator:short": "Essalud",
+    "operator:type": "government",
+    "operator:wikidata": "Q6123930",
+    "phone": "+5112411950",
+    "website": "https://www.gob.pe/essalud"
+  }
+},
+{
+  "type": "way",
+  "id": 1525966280,
+  "center": {
+    "lat": -12.1634684,
+    "lon": -76.9697483
+  },
+  "tags": {
+    "addr:city": "San Juan de Miraflores",
+    "addr:street": "Avenida César Canevaro",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "trauma",
+    "name": "Hospital de Especialidades Quirurgicas San Juan de Miraflores",
+    "operator": "Essalud",
+    "operator:short": "Essalud",
+    "operator:type": "government",
+    "operator:wikidata": "Q6123930"
+  }
+},
+{
+  "type": "way",
+  "id": 1569285459,
+  "center": {
+    "lat": -12.0340733,
+    "lon": -77.0242893
+  },
+  "tags": {
+    "addr:city": "Rímac",
+    "addr:housenumber": "202",
+    "addr:street": "Jirón Manco Capac",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "cardiology;urology;dermatology;endocrinology;dental_oral_maxillo_facial_surgery;ophthalmology;neurology;humanistic;psychiatry",
+    "name": "Policlínico Parroquial Nuestra Señora de los Ángeles",
+    "website": "https://policlinicolosangeles.com/"
+  }
+},
+{
+  "type": "relation",
+  "id": 9721207,
+  "center": {
+    "lat": -11.9012181,
+    "lon": -77.0343618
+  },
+  "tags": {
+    "addr:city": "Carabayllo",
+    "addr:full": "Av. San Martín Cdra. 2 S/N Urb. Santa Isabel",
+    "addr:street": "Avenida San Martín",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Carabayllo",
+    "old_name": "Hospital de la Solidaridad Carabayllo",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "phone": "+511 543 3444",
+    "type": "multipolygon",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "relation",
+  "id": 9724165,
+  "center": {
+    "lat": -11.9706344,
+    "lon": -77.0572059
+  },
+  "tags": {
+    "addr:city": "Comas",
+    "addr:full": "Av. Túpac Amaru Km. 7.5, Parque La Merced",
+    "addr:street": "Avenida Túpac Amaru",
+    "amenity": "hospital",
+    "building": "roof",
+    "building:levels": "1",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "layer": "1",
+    "name": "SISOL Salud Comas",
+    "old_name": "Hospital de la Solidaridad Comas",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "phone": "+511 525 5462",
+    "type": "multipolygon",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "relation",
+  "id": 9724186,
+  "center": {
+    "lat": -12.1948365,
+    "lon": -76.9596516
+  },
+  "tags": {
+    "addr:city": "Villa El Salvador",
+    "addr:full": "Av. Pastor Sevilla Con Óvalo Pumacahua",
+    "addr:street": "Avenida Mariano Pastor Sevilla",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "SISOL Salud Villa El Salvador",
+    "old_name": "Hospital de la Solidaridad Villa El Salvador",
+    "opening_hours": "Mo-Sa 08:00-17:00",
+    "operator": "Municipalidad Metropolitana de Lima",
+    "operator:type": "government",
+    "operator:wikidata": "Q12184118",
+    "phone": "+511 292 3504",
+    "type": "multipolygon",
+    "website": "https://www.sisol.gob.pe/",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

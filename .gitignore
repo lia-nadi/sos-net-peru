@@ -1,0 +1,18 @@
+.venv/
+**/.Renviron
+.Rproj.user/
+.Rhistory
+.RData
+P1_PRO/data_raw/dem_tiles/
+P1_PRO/data_raw/opencellid_716.csv.gz
+P1_PRO/data_raw/ipress_minsa.csv
+__pycache__/
+.env
+**/.Rhistory
+**/.RData
+**/.Rproj.user/
+*.pyc
+# Caché regenerable (se descarga sola al preparar los datos)
+P1_PRO/data_raw/usgs_shakemap/
+# Textos oficiales en PDF (fuentes, no programa); se citan por nombre en construir_kb.py
+knowledge_base/Dataset/**/*.pdf

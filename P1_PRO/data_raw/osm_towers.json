@@ -1,0 +1,4080 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-09T14:40:58Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1305343463,
+  "lat": -12.0803747,
+  "lon": -76.9814172,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1451454109,
+  "lat": -12.0551721,
+  "lon": -77.0835736,
+  "tags": {
+    "man_made": "water_tower",
+    "name": "UNMSM"
+  }
+},
+{
+  "type": "node",
+  "id": 1452902844,
+  "lat": -12.0434920,
+  "lon": -77.0837268,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1736765110,
+  "lat": -12.0435318,
+  "lon": -77.1007074,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1736772898,
+  "lat": -12.0377674,
+  "lon": -77.0797700,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1938227772,
+  "lat": -12.0234696,
+  "lon": -76.9820078,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1941200777,
+  "lat": -12.0148750,
+  "lon": -76.9687903,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1941656021,
+  "lat": -12.0053400,
+  "lon": -76.9938450,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1947223371,
+  "lat": -12.0039351,
+  "lon": -76.9900698,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1954479932,
+  "lat": -11.9992785,
+  "lon": -76.9974607,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1954583427,
+  "lat": -11.9985904,
+  "lon": -76.9944493,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1955080727,
+  "lat": -11.9908898,
+  "lon": -76.9945619,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1966897674,
+  "lat": -12.0090594,
+  "lon": -76.9883167,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1975411935,
+  "lat": -11.9771503,
+  "lon": -76.9817299,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1975412388,
+  "lat": -11.9810176,
+  "lon": -76.9773892,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 1975412589,
+  "lat": -11.9870773,
+  "lon": -76.9744624,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 2436763960,
+  "lat": -12.0850886,
+  "lon": -76.9601342,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 2436763964,
+  "lat": -12.0852596,
+  "lon": -76.9600932,
+  "tags": {
+    "man_made": "tower",
+    "source": "bing",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 3949407007,
+  "lat": -11.9706704,
+  "lon": -77.0834453,
+  "tags": {
+    "man_made": "tower"
+  }
+},
+{
+  "type": "node",
+  "id": 3952784522,
+  "lat": -12.0618654,
+  "lon": -77.0975610,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 3952784530,
+  "lat": -12.1010302,
+  "lon": -77.0693795,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4024710420,
+  "lat": -12.0354423,
+  "lon": -77.0179159,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:construction": "lattice",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4172113673,
+  "lat": -12.0706045,
+  "lon": -77.0431413,
+  "tags": {
+    "height": "5",
+    "man_made": "tower",
+    "operator": "senamhi",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "node",
+  "id": 4269895190,
+  "lat": -12.1713218,
+  "lon": -77.0178514,
+  "tags": {
+    "man_made": "tower",
+    "name": "Telefónica",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4343686015,
+  "lat": -12.1315578,
+  "lon": -77.0003880,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 4562118472,
+  "lat": -12.0365971,
+  "lon": -77.0666561,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 4761159459,
+  "lat": -11.9582035,
+  "lon": -76.9938405,
+  "tags": {
+    "man_made": "tower",
+    "operator": "Bitel",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027709,
+  "lat": -12.1829708,
+  "lon": -77.0313818,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027722,
+  "lat": -12.1829135,
+  "lon": -77.0302066,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027732,
+  "lat": -12.1828046,
+  "lon": -77.0294072,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027756,
+  "lat": -12.1823904,
+  "lon": -77.0288960,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027757,
+  "lat": -12.1824072,
+  "lon": -77.0289285,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027762,
+  "lat": -12.1825982,
+  "lon": -77.0293334,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027771,
+  "lat": -12.1822634,
+  "lon": -77.0281315,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027784,
+  "lat": -12.1823302,
+  "lon": -77.0275014,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027785,
+  "lat": -12.1821661,
+  "lon": -77.0273181,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027790,
+  "lat": -12.1818443,
+  "lon": -77.0269330,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027791,
+  "lat": -12.1818488,
+  "lon": -77.0266295,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027796,
+  "lat": -12.1818142,
+  "lon": -77.0264924,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027811,
+  "lat": -12.1817706,
+  "lon": -77.0262429,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027837,
+  "lat": -12.1825848,
+  "lon": -77.0250361,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027849,
+  "lat": -12.1828083,
+  "lon": -77.0249473,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027850,
+  "lat": -12.1830573,
+  "lon": -77.0248695,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027851,
+  "lat": -12.1832251,
+  "lon": -77.0248319,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027857,
+  "lat": -12.1828423,
+  "lon": -77.0254837,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027872,
+  "lat": -12.1835447,
+  "lon": -77.0244476,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027889,
+  "lat": -12.1841800,
+  "lon": -77.0244312,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027895,
+  "lat": -12.1849265,
+  "lon": -77.0240952,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027911,
+  "lat": -12.1842171,
+  "lon": -77.0328424,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027917,
+  "lat": -12.1850879,
+  "lon": -77.0339150,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027922,
+  "lat": -12.1846457,
+  "lon": -77.0346538,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027927,
+  "lat": -12.1826691,
+  "lon": -77.0320232,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027943,
+  "lat": -12.1823396,
+  "lon": -77.0325837,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027948,
+  "lat": -12.1818928,
+  "lon": -77.0256600,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027949,
+  "lat": -12.1820951,
+  "lon": -77.0255032,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 4948027960,
+  "lat": -12.1838767,
+  "lon": -77.0255087,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 5122540513,
+  "lat": -12.0565862,
+  "lon": -77.0396060,
+  "tags": {
+    "man_made": "tower"
+  }
+},
+{
+  "type": "node",
+  "id": 5261014855,
+  "lat": -12.1367628,
+  "lon": -76.9863584,
+  "tags": {
+    "man_made": "mast"
+  }
+},
+{
+  "type": "node",
+  "id": 5319691665,
+  "lat": -12.0762555,
+  "lon": -77.1131449,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "node",
+  "id": 5324605681,
+  "lat": -12.0508116,
+  "lon": -76.9299042,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 5504038572,
+  "lat": -12.0936899,
+  "lon": -77.0214581,
+  "tags": {
+    "communication:antenna": "yes",
+    "height": "132",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 5520104572,
+  "lat": -11.7798137,
+  "lon": -77.1789575,
+  "tags": {
+    "man_made": "tower",
+    "seamark:landmark:category": "mast",
+    "seamark:landmark:function": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 5520104573,
+  "lat": -11.7798561,
+  "lon": -77.1791786,
+  "tags": {
+    "man_made": "tower",
+    "seamark:landmark:category": "mast",
+    "seamark:landmark:function": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 5520104574,
+  "lat": -11.7799351,
+  "lon": -77.1795482,
+  "tags": {
+    "man_made": "tower",
+    "seamark:landmark:category": "mast",
+    "seamark:landmark:function": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 5520104575,
+  "lat": -11.7799477,
+  "lon": -77.1798165,
+  "tags": {
+    "man_made": "tower",
+    "seamark:landmark:category": "mast",
+    "seamark:landmark:function": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 5757867028,
+  "lat": -12.0959209,
+  "lon": -77.0636201,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 5819497308,
+  "lat": -12.1094040,
+  "lon": -77.0154231,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 5880303111,
+  "lat": -12.0851730,
+  "lon": -76.9462654,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 5973697740,
+  "lat": -11.8705137,
+  "lon": -77.0593452,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communicationhttps://tamboinga.blogspot.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5973697741,
+  "lat": -11.8696802,
+  "lon": -77.0599522,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communicationhttps://tamboinga.blogspot.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5973697742,
+  "lat": -11.8693938,
+  "lon": -77.0599917,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communicationhttps://tamboinga.blogspot.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6020041544,
+  "lat": -11.7413880,
+  "lon": -77.1488759,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:construction": "lattice_steel",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 6128863042,
+  "lat": -12.0715820,
+  "lon": -76.9690093,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 6139084561,
+  "lat": -11.9772988,
+  "lon": -76.7913216,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 6255051870,
+  "lat": -12.2623795,
+  "lon": -76.8254684,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 6315281678,
+  "lat": -12.2220860,
+  "lon": -76.9184611,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 6315281679,
+  "lat": -12.2221681,
+  "lon": -76.9184290,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 6455554799,
+  "lat": -12.3418462,
+  "lon": -76.8150761,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "communication:radio": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 6455554800,
+  "lat": -12.3419536,
+  "lon": -76.8151110,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "communication:radio": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 6455554801,
+  "lat": -12.3419850,
+  "lon": -76.8152022,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "communication:radio": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 6815702778,
+  "lat": -12.1743051,
+  "lon": -76.9328977,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 6966946197,
+  "lat": -12.1360760,
+  "lon": -76.9257111,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 7125383812,
+  "lat": -12.2736062,
+  "lon": -76.8684845,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 7125383819,
+  "lat": -12.2736868,
+  "lon": -76.8685714,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 7195585285,
+  "lat": -11.8072284,
+  "lon": -77.0436628,
+  "tags": {
+    "man_made": "water_tower",
+    "ref": "RAP-01"
+  }
+},
+{
+  "type": "node",
+  "id": 7367388291,
+  "lat": -12.2277856,
+  "lon": -76.9652932,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 7367388292,
+  "lat": -12.2280714,
+  "lon": -76.9651819,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 7782227742,
+  "lat": -12.0147740,
+  "lon": -77.0568462,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 7824340442,
+  "lat": -12.0063743,
+  "lon": -77.0970069,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 7852431940,
+  "lat": -11.9536279,
+  "lon": -76.9840839,
+  "tags": {
+    "direction": "0-360",
+    "man_made": "tower",
+    "tower:construction": "tower",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "node",
+  "id": 7943537416,
+  "lat": -11.9506833,
+  "lon": -77.0540151,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 8244140291,
+  "lat": -12.0940830,
+  "lon": -77.0162923,
+  "tags": {
+    "communication:radio": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 8597453829,
+  "lat": -11.9850461,
+  "lon": -77.0133273,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 9159661304,
+  "lat": -12.0182003,
+  "lon": -77.1221278,
+  "tags": {
+    "aeroway": "tower",
+    "man_made": "tower",
+    "service": "aircraft_control",
+    "tower:type": "monitoring"
+  }
+},
+{
+  "type": "node",
+  "id": 9353997029,
+  "lat": -11.9853393,
+  "lon": -77.0114335,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 9377746701,
+  "lat": -11.9957400,
+  "lon": -77.0148923,
+  "tags": {
+    "description": "Se encuentra subierto como si fuese árbol",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 9401649706,
+  "lat": -12.0336176,
+  "lon": -76.9971000,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 9501714601,
+  "lat": -11.9838599,
+  "lon": -77.0138871,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 9799728389,
+  "lat": -12.0170589,
+  "lon": -77.0015754,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "telecommunication"
+  }
+},
+{
+  "type": "node",
+  "id": 9799735103,
+  "lat": -11.9966629,
+  "lon": -77.0102730,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "telecommunication"
+  }
+},
+{
+  "type": "node",
+  "id": 9854807604,
+  "lat": -12.0455355,
+  "lon": -77.0260287,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "telecommunication"
+  }
+},
+{
+  "type": "node",
+  "id": 9994139310,
+  "lat": -11.8400574,
+  "lon": -77.0933716,
+  "tags": {
+    "access": "no",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 10007633177,
+  "lat": -11.9831215,
+  "lon": -77.0082526,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 10026258237,
+  "lat": -12.0086697,
+  "lon": -77.0526905,
+  "tags": {
+    "man_made": "mast",
+    "tower:construction": "guyed_lattice"
+  }
+},
+{
+  "type": "node",
+  "id": 10216219799,
+  "lat": -12.1197634,
+  "lon": -76.9973236,
+  "tags": {
+    "height": "30",
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 10558927625,
+  "lat": -12.0265589,
+  "lon": -77.1271897,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 10560681436,
+  "lat": -12.0340308,
+  "lon": -77.1041754,
+  "tags": {
+    "man_made": "tower"
+  }
+},
+{
+  "type": "node",
+  "id": 11166164169,
+  "lat": -12.0746084,
+  "lon": -77.0927453,
+  "tags": {
+    "man_made": "tower"
+  }
+},
+{
+  "type": "node",
+  "id": 11590878208,
+  "lat": -12.1051554,
+  "lon": -76.9383862,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 11590878209,
+  "lat": -12.1146582,
+  "lon": -76.9337630,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 11608814072,
+  "lat": -12.1093041,
+  "lon": -76.9532960,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 11962123096,
+  "lat": -11.9457100,
+  "lon": -77.0666666,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 12125726083,
+  "lat": -11.7797565,
+  "lon": -77.1787828,
+  "tags": {
+    "man_made": "tower"
+  }
+},
+{
+  "type": "node",
+  "id": 12125726084,
+  "lat": -11.7799088,
+  "lon": -77.1793810,
+  "tags": {
+    "man_made": "tower"
+  }
+},
+{
+  "type": "node",
+  "id": 12279842594,
+  "lat": -12.0641805,
+  "lon": -77.1204220,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 12560204636,
+  "lat": -12.0420748,
+  "lon": -77.1137276,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 12560204637,
+  "lat": -12.0431294,
+  "lon": -77.1111790,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 12591213801,
+  "lat": -12.0963246,
+  "lon": -77.0734995,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12591213802,
+  "lat": -12.0963953,
+  "lon": -77.0735464,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12591213803,
+  "lat": -12.0964729,
+  "lon": -77.0735675,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12591213805,
+  "lat": -12.0921060,
+  "lon": -77.0734305,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "mimics": "tree",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12591213813,
+  "lat": -12.0973806,
+  "lon": -77.0744854,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12591213818,
+  "lat": -12.0951255,
+  "lon": -77.0705272,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "mimics": "tree",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12596078035,
+  "lat": -12.0849837,
+  "lon": -77.0612629,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "mimics": "tree",
+    "source": "survey",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12596078037,
+  "lat": -12.0783856,
+  "lon": -77.0556064,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "mimics": "tree",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12596078038,
+  "lat": -12.0712900,
+  "lon": -77.0503019,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "mimics": "tree",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12599572565,
+  "lat": -12.0921027,
+  "lon": -77.0830916,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "mimics": "tree",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12599621320,
+  "lat": -12.1770145,
+  "lon": -77.0122618,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "mimics": "tree",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12599621321,
+  "lat": -12.1833080,
+  "lon": -77.0080993,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12599621322,
+  "lat": -12.1827697,
+  "lon": -77.0081085,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12603873860,
+  "lat": -12.1008667,
+  "lon": -77.0612079,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12603873862,
+  "lat": -12.1085707,
+  "lon": -77.0561941,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12603873870,
+  "lat": -12.1177229,
+  "lon": -77.0442318,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:construction": "lattice",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12605526476,
+  "lat": -12.0829893,
+  "lon": -77.0281867,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "mimics": "tree",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12605526477,
+  "lat": -12.0937249,
+  "lon": -77.0331328,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "mimics": "tree",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12607964048,
+  "lat": -12.0731538,
+  "lon": -77.0868543,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12608534576,
+  "lat": -12.0821837,
+  "lon": -77.0664232,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12631691375,
+  "lat": -12.0943092,
+  "lon": -77.0804404,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:construction": "pole",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12631691376,
+  "lat": -12.0940214,
+  "lon": -77.0808693,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:construction": "pole",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12631691377,
+  "lat": -12.0937587,
+  "lon": -77.0812727,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:construction": "pole",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12631691380,
+  "lat": -12.0903535,
+  "lon": -77.0836937,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12631691381,
+  "lat": -12.0930579,
+  "lon": -77.0744593,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 12838634109,
+  "lat": -11.9980806,
+  "lon": -77.0651079,
+  "tags": {
+    "man_made": "mast"
+  }
+},
+{
+  "type": "node",
+  "id": 12978871567,
+  "lat": -12.0233778,
+  "lon": -77.1079241,
+  "tags": {
+    "man_made": "tower"
+  }
+},
+{
+  "type": "node",
+  "id": 13071896221,
+  "lat": -12.0495246,
+  "lon": -77.0710202,
+  "tags": {
+    "man_made": "tower",
+    "mimics": "tree",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13071896226,
+  "lat": -12.0413135,
+  "lon": -77.1121618,
+  "tags": {
+    "man_made": "tower",
+    "mimics": "pine",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13071896234,
+  "lat": -12.0397002,
+  "lon": -77.0969055,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13073386762,
+  "lat": -12.1694144,
+  "lon": -76.9438610,
+  "tags": {
+    "communication:lte": "yes",
+    "communication:microwave": "yes",
+    "communication:mobile_phone": "yes",
+    "construction": "lattice",
+    "height": "40",
+    "man_made": "tower",
+    "operator": "Claro",
+    "tower:construction": "lattice",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13073411566,
+  "lat": -12.1731601,
+  "lon": -76.9481167,
+  "tags": {
+    "communication": "mobile_phone = yes",
+    "communication:4g": "yes",
+    "communication:lte": "yes",
+    "communication:mobile_phone": "yes",
+    "height": "30",
+    "man_made": "tower",
+    "mimics": "pine",
+    "operator": "Claro",
+    "tower:construction": "camouflaged",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13082897556,
+  "lat": -12.1736085,
+  "lon": -76.9491100,
+  "tags": {
+    "communication:4g": "yes",
+    "communication:lte": "yes",
+    "communication:mobile_phone": "yes",
+    "height": "30-40",
+    "man_made": "tower",
+    "operator": "Entel",
+    "tower:construction": "monopole",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13082897559,
+  "lat": -12.1778847,
+  "lon": -76.9397823,
+  "tags": {
+    "communication:4G": "yes",
+    "communication:lte": "yes",
+    "communication:mobile_phone": "yes",
+    "frequency": "1900;1700;2600;2100",
+    "height": "45",
+    "man_made": "tower",
+    "operator": "Entel",
+    "tower:construction": "monopole",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13196431757,
+  "lat": -12.1038683,
+  "lon": -76.9478148,
+  "tags": {
+    "communication:mobile_phone": "yes",
+    "man_made": "mast",
+    "tower:construction": "freestanding",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13417460096,
+  "lat": -12.0150216,
+  "lon": -77.0428366,
+  "tags": {
+    "man_made": "mast",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13619116727,
+  "lat": -12.2979790,
+  "lon": -76.8547060,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13619165434,
+  "lat": -12.2883840,
+  "lon": -76.8706024,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 13726051506,
+  "lat": -12.0490701,
+  "lon": -77.0268923,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "node",
+  "id": 13777909482,
+  "lat": -12.1178714,
+  "lon": -77.0058807,
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "node",
+  "id": 14158179090,
+  "lat": -12.1262122,
+  "lon": -77.0078594,
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 75980597,
+  "center": {
+    "lat": -12.0430495,
+    "lon": -77.0940825
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 104031770,
+  "center": {
+    "lat": -12.0388543,
+    "lon": -77.1386951
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 184938122,
+  "center": {
+    "lat": -12.1321947,
+    "lon": -76.9913539
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 319960192,
+  "center": {
+    "lat": -12.1542540,
+    "lon": -76.9844514
+  },
+  "tags": {
+    "building": "storage",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 373049058,
+  "center": {
+    "lat": -12.1930628,
+    "lon": -76.9780198
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower",
+    "name": "Reservorio de Agua"
+  }
+},
+{
+  "type": "way",
+  "id": 374510813,
+  "center": {
+    "lat": -12.1507668,
+    "lon": -76.9815840
+  },
+  "tags": {
+    "building": "yes",
+    "height": "12",
+    "man_made": "water_tower",
+    "name": "R-8B"
+  }
+},
+{
+  "type": "way",
+  "id": 384747015,
+  "center": {
+    "lat": -12.0672087,
+    "lon": -77.1391264
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 384861592,
+  "center": {
+    "lat": -12.0660402,
+    "lon": -77.1201625
+  },
+  "tags": {
+    "building": "water_tower",
+    "height": "6",
+    "man_made": "water_tower",
+    "roof:shape": "dome",
+    "wall": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 397719622,
+  "center": {
+    "lat": -11.9810331,
+    "lon": -77.0714005
+  },
+  "tags": {
+    "alt_name": "Servicio de Agua Potable y Alcantarillado",
+    "alt_name:en": "Lima Drinking Water and Sewer Service",
+    "building": "yes",
+    "height": "15",
+    "man_made": "water_tower",
+    "operator": "SEDAPAL",
+    "operator:wikidata": "Q20024824",
+    "operator:wikipedia": "es:Servicio de Agua Potable y Alcantarillado de Lima"
+  }
+},
+{
+  "type": "way",
+  "id": 401808960,
+  "center": {
+    "lat": -12.0550212,
+    "lon": -77.1285180
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower",
+    "name": "Reservorio de agua Santa María Sur"
+  }
+},
+{
+  "type": "way",
+  "id": 402042865,
+  "center": {
+    "lat": -12.0122004,
+    "lon": -76.9865202
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 402042866,
+  "center": {
+    "lat": -12.0086508,
+    "lon": -76.9781482
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 402048622,
+  "center": {
+    "lat": -12.0064389,
+    "lon": -76.9739575
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 416298608,
+  "center": {
+    "lat": -12.1094366,
+    "lon": -76.9755020
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 416304118,
+  "center": {
+    "lat": -12.1100564,
+    "lon": -76.9804805
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower",
+    "name": "R-217",
+    "operator": "Sedapal"
+  }
+},
+{
+  "type": "way",
+  "id": 419995231,
+  "center": {
+    "lat": -12.1822497,
+    "lon": -76.9535150
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "name": "Reservorio de agua"
+  }
+},
+{
+  "type": "way",
+  "id": 420670053,
+  "center": {
+    "lat": -12.0613870,
+    "lon": -77.0688914
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 430872033,
+  "center": {
+    "lat": -11.9926316,
+    "lon": -77.0757488
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower",
+    "operator": "Sedapal"
+  }
+},
+{
+  "type": "way",
+  "id": 435210786,
+  "center": {
+    "lat": -12.1729184,
+    "lon": -76.9775947
+  },
+  "tags": {
+    "building": "service",
+    "communication:mobile_phone": "yes",
+    "man_made": "tower",
+    "tower:construction": "metal",
+    "tower:type": "communication"
+  }
+},
+{
+  "type": "way",
+  "id": 435413779,
+  "center": {
+    "lat": -12.0235997,
+    "lon": -77.1296373
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 435545421,
+  "center": {
+    "lat": -11.9021949,
+    "lon": -77.0310953
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "operator": "Sedapal"
+  }
+},
+{
+  "type": "way",
+  "id": 435545422,
+  "center": {
+    "lat": -11.9021199,
+    "lon": -77.0312921
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "operator": "Sedapal"
+  }
+},
+{
+  "type": "way",
+  "id": 436746413,
+  "center": {
+    "lat": -11.9311188,
+    "lon": -77.0452098
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 436938479,
+  "center": {
+    "lat": -12.0540639,
+    "lon": -77.0314383
+  },
+  "tags": {
+    "architect": "Friedrich Jordan Barkholtz",
+    "building": "yes",
+    "building:levels": "1",
+    "height": "30",
+    "historic": "monument",
+    "inscription": "La Colonia Alemana a la República del Perú en el primer Centenario de su Independencia. 1821 - 1921",
+    "lit": "yes",
+    "man_made": "tower",
+    "name": "Torre del Reloj Alemana",
+    "name:de": "Deutscher Turm",
+    "name:en": "German Tower",
+    "name:fr": "Tour allemande",
+    "name:it": "Torre tedesca",
+    "name:pt": "Torre alemã",
+    "start_date": "1923-07-10",
+    "tower:construction": "brick",
+    "tower:type": "monument",
+    "wikidata": "Q17631827",
+    "wikimedia_commons": "Category:Torre Alemana",
+    "wikipedia": "es:Torre Alemana"
+  }
+},
+{
+  "type": "way",
+  "id": 436940008,
+  "center": {
+    "lat": -12.1172861,
+    "lon": -77.0134819
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 437506981,
+  "center": {
+    "lat": -12.1766727,
+    "lon": -76.9546505
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower",
+    "operator": "Sedapal"
+  }
+},
+{
+  "type": "way",
+  "id": 438032566,
+  "center": {
+    "lat": -12.0822966,
+    "lon": -76.9976641
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "name": "Sedapal"
+  }
+},
+{
+  "type": "way",
+  "id": 438477030,
+  "center": {
+    "lat": -11.9435408,
+    "lon": -77.0560893
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 438597683,
+  "center": {
+    "lat": -12.1272551,
+    "lon": -76.9936228
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 438648942,
+  "center": {
+    "lat": -12.1226134,
+    "lon": -76.9863648
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "name": "Sedapal"
+  }
+},
+{
+  "type": "way",
+  "id": 438663124,
+  "center": {
+    "lat": -12.1564766,
+    "lon": -76.9898243
+  },
+  "tags": {
+    "addr:street": "Avenida Los Próceres",
+    "building": "yes",
+    "man_made": "tower",
+    "name": "Centro de Observación y Videovigilancia",
+    "operator": "Municipalidad de Surco",
+    "source": "Reconocimiento cartográfico por Kaart 2017",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "way",
+  "id": 439192850,
+  "center": {
+    "lat": -12.0337149,
+    "lon": -77.0966668
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 439818649,
+  "center": {
+    "lat": -12.0055488,
+    "lon": -77.0524669
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 440260220,
+  "center": {
+    "lat": -11.9993238,
+    "lon": -77.0661586
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 441716412,
+  "center": {
+    "lat": -11.7998560,
+    "lon": -77.0135739
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 442456162,
+  "center": {
+    "lat": -12.0994175,
+    "lon": -77.0670471
+  },
+  "tags": {
+    "height": "10",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 445344934,
+  "center": {
+    "lat": -12.1855640,
+    "lon": -76.9521132
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446010662,
+  "center": {
+    "lat": -11.9855234,
+    "lon": -77.0701142
+  },
+  "tags": {
+    "alt_name": "Servicio de Agua Potable y Alcantarillado",
+    "alt_name:en": "Lima Drinking Water and Sewer Service",
+    "building": "yes",
+    "height": "15",
+    "man_made": "water_tower",
+    "operator": "SEDAPAL",
+    "operator:wikidata": "Q20024824",
+    "operator:wikipedia": "es:Servicio de Agua Potable y Alcantarillado de Lima"
+  }
+},
+{
+  "type": "way",
+  "id": 446205258,
+  "center": {
+    "lat": -12.0193468,
+    "lon": -77.0924015
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446218139,
+  "center": {
+    "lat": -12.0261875,
+    "lon": -77.0931876
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446225048,
+  "center": {
+    "lat": -12.1451318,
+    "lon": -76.9910796
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446547681,
+  "center": {
+    "lat": -12.0593953,
+    "lon": -77.1061825
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446567330,
+  "center": {
+    "lat": -12.0551275,
+    "lon": -77.1092012
+  },
+  "tags": {
+    "height": "10",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446569691,
+  "center": {
+    "lat": -12.0523455,
+    "lon": -77.1002899
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446569704,
+  "center": {
+    "lat": -12.0571791,
+    "lon": -77.0985622
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446569713,
+  "center": {
+    "lat": -12.0565081,
+    "lon": -77.0931922
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446570575,
+  "center": {
+    "lat": -12.0564567,
+    "lon": -77.0901964
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446690090,
+  "center": {
+    "lat": -12.0710058,
+    "lon": -77.1122600
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446730395,
+  "center": {
+    "lat": -12.0758924,
+    "lon": -77.1120753
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 446748121,
+  "center": {
+    "lat": -11.9726908,
+    "lon": -77.1080036
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 448991190,
+  "center": {
+    "lat": -12.0950331,
+    "lon": -76.9836529
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 449089718,
+  "center": {
+    "lat": -12.0664176,
+    "lon": -76.9627337
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 450145609,
+  "center": {
+    "lat": -11.7398313,
+    "lon": -76.7049115
+  },
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 451735640,
+  "center": {
+    "lat": -11.8188914,
+    "lon": -77.1400362
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 453114492,
+  "center": {
+    "lat": -12.1202519,
+    "lon": -76.9878729
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 454601495,
+  "center": {
+    "lat": -11.9614338,
+    "lon": -77.0783625
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 458586207,
+  "center": {
+    "lat": -11.9950261,
+    "lon": -77.0984623
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 458588225,
+  "center": {
+    "lat": -11.9861272,
+    "lon": -77.0928588
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 459614759,
+  "center": {
+    "lat": -12.0435011,
+    "lon": -77.1007132
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 462243931,
+  "center": {
+    "lat": -12.0643867,
+    "lon": -77.0014333
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 474404851,
+  "center": {
+    "lat": -11.9443933,
+    "lon": -77.0443581
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 474916593,
+  "center": {
+    "lat": -11.9661897,
+    "lon": -77.0594554
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 475083666,
+  "center": {
+    "lat": -12.0967352,
+    "lon": -76.9532127
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 475087637,
+  "center": {
+    "lat": -12.1022676,
+    "lon": -76.9522109
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 475087965,
+  "center": {
+    "lat": -12.1035834,
+    "lon": -76.9453670
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 477879259,
+  "center": {
+    "lat": -12.2323767,
+    "lon": -76.8877987
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "name": "Reservorio de agua"
+  }
+},
+{
+  "type": "way",
+  "id": 483717719,
+  "center": {
+    "lat": -11.9881550,
+    "lon": -76.8536522
+  },
+  "tags": {
+    "man_made": "tower"
+  }
+},
+{
+  "type": "way",
+  "id": 494892376,
+  "center": {
+    "lat": -12.2375290,
+    "lon": -76.9560930
+  },
+  "tags": {
+    "height": "15",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 498103060,
+  "center": {
+    "lat": -12.0100398,
+    "lon": -77.0574569
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 518443859,
+  "center": {
+    "lat": -12.0333525,
+    "lon": -76.9325673
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 524227666,
+  "center": {
+    "lat": -12.1839631,
+    "lon": -76.9334167
+  },
+  "tags": {
+    "building": "yes",
+    "content": "water",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 561370575,
+  "center": {
+    "lat": -12.1315581,
+    "lon": -77.0003881
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 565493827,
+  "center": {
+    "lat": -12.1400803,
+    "lon": -76.9788885
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 568381970,
+  "center": {
+    "lat": -12.0508797,
+    "lon": -76.9628755
+  },
+  "tags": {
+    "building": "yes",
+    "height": "25",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 579756789,
+  "center": {
+    "lat": -12.0017681,
+    "lon": -77.0575338
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "operator": "Sedapal"
+  }
+},
+{
+  "type": "way",
+  "id": 582039062,
+  "center": {
+    "lat": -12.0192944,
+    "lon": -77.0672141
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 594001589,
+  "center": {
+    "lat": -11.8618966,
+    "lon": -77.0438508
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 596179291,
+  "center": {
+    "lat": -11.9085540,
+    "lon": -77.0424817
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 596212132,
+  "center": {
+    "lat": -11.9534395,
+    "lon": -77.0620669
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 597102671,
+  "center": {
+    "lat": -11.8249299,
+    "lon": -77.1568540
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 597140220,
+  "center": {
+    "lat": -11.8805403,
+    "lon": -77.0341447
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 599040427,
+  "center": {
+    "lat": -12.0562714,
+    "lon": -76.9699520
+  },
+  "tags": {
+    "building": "yes",
+    "height": "50",
+    "man_made": "tower",
+    "tower:construction": "concrete",
+    "tower:type": "monument"
+  }
+},
+{
+  "type": "way",
+  "id": 599040452,
+  "center": {
+    "lat": -12.0516080,
+    "lon": -76.9504591
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 599044234,
+  "center": {
+    "lat": -12.0640446,
+    "lon": -76.9415843
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 599059018,
+  "center": {
+    "lat": -12.0665563,
+    "lon": -76.9512762
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 600477135,
+  "center": {
+    "lat": -11.9656484,
+    "lon": -77.0520870
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 600477137,
+  "center": {
+    "lat": -11.9736397,
+    "lon": -77.0552538
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 600477147,
+  "center": {
+    "lat": -11.9758946,
+    "lon": -77.0366416
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 602767147,
+  "center": {
+    "lat": -11.8431491,
+    "lon": -77.1131460
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 604033996,
+  "center": {
+    "lat": -11.8911000,
+    "lon": -77.0176552
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 604724321,
+  "center": {
+    "lat": -11.8498510,
+    "lon": -77.1075834
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 604724322,
+  "center": {
+    "lat": -11.8498896,
+    "lon": -77.1075777
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 604724346,
+  "center": {
+    "lat": -11.8538686,
+    "lon": -77.1092248
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 604724347,
+  "center": {
+    "lat": -11.8539204,
+    "lon": -77.1091881
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 604763170,
+  "center": {
+    "lat": -12.0155833,
+    "lon": -77.0237722
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 604836981,
+  "center": {
+    "lat": -11.8744905,
+    "lon": -77.0425659
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 604836983,
+  "center": {
+    "lat": -11.8691806,
+    "lon": -77.0432492
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 605947090,
+  "center": {
+    "lat": -11.9903058,
+    "lon": -77.1176607
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 605949402,
+  "center": {
+    "lat": -12.0235765,
+    "lon": -77.1346373
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 607803543,
+  "center": {
+    "lat": -11.9913072,
+    "lon": -77.1027992
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 611904950,
+  "center": {
+    "lat": -12.0307892,
+    "lon": -77.0815819
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 612096550,
+  "center": {
+    "lat": -11.8703604,
+    "lon": -77.0304298
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 615422779,
+  "center": {
+    "lat": -12.1129757,
+    "lon": -76.9940362
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 621391079,
+  "center": {
+    "lat": -11.9101335,
+    "lon": -77.0467820
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 633717672,
+  "center": {
+    "lat": -11.9607439,
+    "lon": -77.0708599
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 641069087,
+  "center": {
+    "lat": -12.0346420,
+    "lon": -76.7112022
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:construction": "concrete",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 659620154,
+  "center": {
+    "lat": -12.2522562,
+    "lon": -76.8800184
+  },
+  "tags": {
+    "building": "yes",
+    "height": "12",
+    "man_made": "tower",
+    "tower:type": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 661210494,
+  "center": {
+    "lat": -12.3918752,
+    "lon": -76.7613511
+  },
+  "tags": {
+    "building": "yes",
+    "height": "16",
+    "man_made": "tower",
+    "tower:construction": "concrete",
+    "tower:type": "aircraft_control"
+  }
+},
+{
+  "type": "way",
+  "id": 668484362,
+  "center": {
+    "lat": -11.8829854,
+    "lon": -77.0223620
+  },
+  "tags": {
+    "man_made": "tower"
+  }
+},
+{
+  "type": "way",
+  "id": 669264088,
+  "center": {
+    "lat": -11.9013121,
+    "lon": -77.0565930
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 671010824,
+  "center": {
+    "lat": -12.1952043,
+    "lon": -77.0213624
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 685146223,
+  "center": {
+    "lat": -11.9086745,
+    "lon": -77.0534406
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 725720354,
+  "center": {
+    "lat": -12.2373215,
+    "lon": -76.9398233
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "tower:type": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 725723677,
+  "center": {
+    "lat": -12.2387030,
+    "lon": -76.9320938
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "tower:type": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 725723684,
+  "center": {
+    "lat": -12.2402076,
+    "lon": -76.9306754
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "tower:type": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 725723693,
+  "center": {
+    "lat": -12.2419554,
+    "lon": -76.9313001
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "tower:type": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 727630784,
+  "center": {
+    "lat": -12.0837315,
+    "lon": -76.8962829
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 744455417,
+  "center": {
+    "lat": -12.1801100,
+    "lon": -76.8516629
+  },
+  "tags": {
+    "building": "yes",
+    "height": "9",
+    "level": "1",
+    "man_made": "tower",
+    "material": "concrete",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 744455418,
+  "center": {
+    "lat": -12.1801368,
+    "lon": -76.8515809
+  },
+  "tags": {
+    "building": "yes",
+    "height": "9",
+    "level": "1",
+    "man_made": "tower",
+    "material": "concrete",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 745158763,
+  "center": {
+    "lat": -12.0391057,
+    "lon": -76.9525101
+  },
+  "tags": {
+    "man_made": "water_tower",
+    "tower:type": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 746181382,
+  "center": {
+    "lat": -12.2059620,
+    "lon": -76.9423283
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower",
+    "name": "CR-330",
+    "operator": "SEDAPAL"
+  }
+},
+{
+  "type": "way",
+  "id": 755209675,
+  "center": {
+    "lat": -12.2294477,
+    "lon": -76.8589061
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 755209676,
+  "center": {
+    "lat": -12.2295442,
+    "lon": -76.8588173
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 776122251,
+  "center": {
+    "lat": -12.1937705,
+    "lon": -76.9633146
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 776656408,
+  "center": {
+    "lat": -12.2195218,
+    "lon": -76.9919933
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 786319406,
+  "center": {
+    "lat": -11.7471282,
+    "lon": -77.1649258
+  },
+  "tags": {
+    "building": "yes",
+    "height": "20",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 799424674,
+  "center": {
+    "lat": -12.2362057,
+    "lon": -76.9390088
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower",
+    "name": "R-7M",
+    "old_name": "R-338",
+    "tower:type": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 810769084,
+  "center": {
+    "lat": -12.0759003,
+    "lon": -76.9939439
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 827146878,
+  "center": {
+    "lat": -12.2133624,
+    "lon": -76.9304091
+  },
+  "tags": {
+    "height": "18",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 829894326,
+  "center": {
+    "lat": -12.1598943,
+    "lon": -77.0108094
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 829914248,
+  "center": {
+    "lat": -12.1582141,
+    "lon": -77.0133481
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 830046321,
+  "center": {
+    "lat": -12.1731680,
+    "lon": -77.0101677
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 832665183,
+  "center": {
+    "lat": -11.9390752,
+    "lon": -77.0477839
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 832809131,
+  "center": {
+    "lat": -11.9818285,
+    "lon": -77.0839068
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 833685751,
+  "center": {
+    "lat": -11.9692039,
+    "lon": -77.0699121
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 833685880,
+  "center": {
+    "lat": -11.9767951,
+    "lon": -77.0685551
+  },
+  "tags": {
+    "alt_name": "Servicio de Agua Potable y Alcantarillado",
+    "alt_name:en": "Lima Drinking Water and Sewer Service",
+    "building": "yes",
+    "height": "15",
+    "man_made": "water_tower",
+    "operator": "SEDAPAL",
+    "operator:wikidata": "Q20024824",
+    "operator:wikipedia": "es:Servicio de Agua Potable y Alcantarillado de Lima"
+  }
+},
+{
+  "type": "way",
+  "id": 833697407,
+  "center": {
+    "lat": -12.0051067,
+    "lon": -77.1054653
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 838404683,
+  "center": {
+    "lat": -12.1761031,
+    "lon": -76.9991996
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower",
+    "operator": "P-605"
+  }
+},
+{
+  "type": "way",
+  "id": 850190586,
+  "center": {
+    "lat": -12.1062548,
+    "lon": -77.0250066
+  },
+  "tags": {
+    "building": "yes",
+    "building:colour": "white",
+    "building:material": "concrete",
+    "height": "30",
+    "level": "2",
+    "man_made": "water_tower",
+    "min_height": "24",
+    "min_level": "2",
+    "name": "R-248",
+    "operator": "Sedapal",
+    "roof:colour": "white",
+    "roof:material": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 851858617,
+  "center": {
+    "lat": -12.2216086,
+    "lon": -76.8834159
+  },
+  "tags": {
+    "building": "yes",
+    "height": "20",
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 853988063,
+  "center": {
+    "lat": -12.0600260,
+    "lon": -76.9519681
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 866471059,
+  "center": {
+    "lat": -12.0590441,
+    "lon": -77.0113657
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 868161824,
+  "center": {
+    "lat": -12.0318171,
+    "lon": -76.9618103
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 868171755,
+  "center": {
+    "lat": -12.0325963,
+    "lon": -76.9414526
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 868171756,
+  "center": {
+    "lat": -12.0330416,
+    "lon": -76.9518121
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 868504973,
+  "center": {
+    "lat": -12.0073921,
+    "lon": -77.0870931
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 879518412,
+  "center": {
+    "lat": -11.9861941,
+    "lon": -77.0807292
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 891764128,
+  "center": {
+    "lat": -11.9179468,
+    "lon": -77.0760413
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 893983610,
+  "center": {
+    "lat": -11.9452397,
+    "lon": -77.1048107
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 893983611,
+  "center": {
+    "lat": -11.9462170,
+    "lon": -77.1058690
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 893983622,
+  "center": {
+    "lat": -11.9575532,
+    "lon": -77.1161847
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 895288992,
+  "center": {
+    "lat": -12.0213078,
+    "lon": -77.0742501
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 895288993,
+  "center": {
+    "lat": -12.0217004,
+    "lon": -77.0729798
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 899381737,
+  "center": {
+    "lat": -11.9549179,
+    "lon": -77.0918107
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 948334404,
+  "center": {
+    "lat": -12.1088121,
+    "lon": -76.9346154
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 957031447,
+  "center": {
+    "lat": -12.0773797,
+    "lon": -76.9802643
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 965790542,
+  "center": {
+    "lat": -11.8608635,
+    "lon": -77.0423026
+  },
+  "tags": {
+    "building": "yes",
+    "height": "5",
+    "man_made": "tower",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 965790545,
+  "center": {
+    "lat": -11.8604867,
+    "lon": -77.0425299
+  },
+  "tags": {
+    "building": "yes",
+    "height": "5",
+    "man_made": "tower",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 965790547,
+  "center": {
+    "lat": -11.8605780,
+    "lon": -77.0426968
+  },
+  "tags": {
+    "building": "yes",
+    "height": "5",
+    "man_made": "tower",
+    "tower:type": "defensive"
+  }
+},
+{
+  "type": "way",
+  "id": 971400201,
+  "center": {
+    "lat": -12.0432052,
+    "lon": -76.9973618
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 974854794,
+  "center": {
+    "lat": -12.1154006,
+    "lon": -76.9372815
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 974854795,
+  "center": {
+    "lat": -12.1160709,
+    "lon": -76.9369039
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 974854796,
+  "center": {
+    "lat": -12.1193140,
+    "lon": -76.9373511
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 974854797,
+  "center": {
+    "lat": -12.1176114,
+    "lon": -76.9315720
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 981886144,
+  "center": {
+    "lat": -12.1095425,
+    "lon": -76.9465047
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 981886145,
+  "center": {
+    "lat": -12.1109965,
+    "lon": -76.9458741
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 981886146,
+  "center": {
+    "lat": -12.1121957,
+    "lon": -76.9457790
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 986438530,
+  "center": {
+    "lat": -12.1106080,
+    "lon": -76.9371037
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 986438532,
+  "center": {
+    "lat": -12.1061331,
+    "lon": -76.9378276
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 986438534,
+  "center": {
+    "lat": -12.1066257,
+    "lon": -76.9377554
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 986438536,
+  "center": {
+    "lat": -12.1058899,
+    "lon": -76.9381840
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 986438538,
+  "center": {
+    "lat": -12.1042530,
+    "lon": -76.9386521
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 986438540,
+  "center": {
+    "lat": -12.1047649,
+    "lon": -76.9313017
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 998973416,
+  "center": {
+    "lat": -12.0189304,
+    "lon": -77.0039925
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1083927668,
+  "center": {
+    "lat": -12.0344997,
+    "lon": -76.9574501
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1105141098,
+  "center": {
+    "lat": -11.9763268,
+    "lon": -76.8024268
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1125771022,
+  "center": {
+    "lat": -11.9479835,
+    "lon": -77.0730132
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1182395606,
+  "center": {
+    "lat": -11.8180286,
+    "lon": -77.0359713
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1191546433,
+  "center": {
+    "lat": -12.2092256,
+    "lon": -76.9905926
+  },
+  "tags": {
+    "man_made": "tower",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "way",
+  "id": 1223965785,
+  "center": {
+    "lat": -12.0504216,
+    "lon": -76.9638415
+  },
+  "tags": {
+    "building": "yes",
+    "height": "10",
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1228080278,
+  "center": {
+    "lat": -12.0472416,
+    "lon": -76.9668083
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "way",
+  "id": 1228718348,
+  "center": {
+    "lat": -12.1447360,
+    "lon": -76.9976964
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "way",
+  "id": 1236416230,
+  "center": {
+    "lat": -12.0485937,
+    "lon": -76.9687235
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1238660121,
+  "center": {
+    "lat": -12.0543093,
+    "lon": -76.9551797
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "way",
+  "id": 1238699574,
+  "center": {
+    "lat": -12.0590168,
+    "lon": -76.9751493
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "way",
+  "id": 1246423895,
+  "center": {
+    "lat": -12.0464135,
+    "lon": -76.9689287
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "tower",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "way",
+  "id": 1254789796,
+  "center": {
+    "lat": -11.9029874,
+    "lon": -77.0230082
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1305836797,
+  "center": {
+    "lat": -12.1252049,
+    "lon": -77.0049662
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1332787616,
+  "center": {
+    "lat": -12.3934161,
+    "lon": -76.7359765
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1358916428,
+  "center": {
+    "lat": -11.9763265,
+    "lon": -77.0442927
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1358916435,
+  "center": {
+    "lat": -11.9771446,
+    "lon": -77.0463435
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1358966670,
+  "center": {
+    "lat": -11.9738803,
+    "lon": -77.0373039
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1361038765,
+  "center": {
+    "lat": -12.1872164,
+    "lon": -77.0045122
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1375123843,
+  "center": {
+    "lat": -11.9426377,
+    "lon": -77.1304610
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1375134843,
+  "center": {
+    "lat": -11.9926364,
+    "lon": -77.0412717
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1391239939,
+  "center": {
+    "lat": -12.2989178,
+    "lon": -76.9030734
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1394452667,
+  "center": {
+    "lat": -11.9189706,
+    "lon": -77.0740523
+  },
+  "tags": {
+    "building": "yes",
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1454553313,
+  "center": {
+    "lat": -11.7645213,
+    "lon": -77.1646209
+  },
+  "tags": {
+    "man_made": "water_tower"
+  }
+},
+{
+  "type": "way",
+  "id": 1518494197,
+  "center": {
+    "lat": -11.9750649,
+    "lon": -77.0754507
+  },
+  "tags": {
+    "alt_name": "Servicio de Agua Potable y Alcantarillado",
+    "alt_name:en": "Lima Drinking Water and Sewer Service",
+    "building": "yes",
+    "height": "15",
+    "man_made": "water_tower",
+    "operator": "SEDAPAL",
+    "operator:wikidata": "Q20024824",
+    "operator:wikipedia": "es:Servicio de Agua Potable y Alcantarillado de Lima"
+  }
+},
+{
+  "type": "way",
+  "id": 1531746380,
+  "center": {
+    "lat": -12.2255649,
+    "lon": -76.8547692
+  },
+  "tags": {
+    "building": "yes",
+    "height": "15",
+    "man_made": "tower",
+    "tower:type": "bell_tower"
+  }
+}
+
+  ]
+}

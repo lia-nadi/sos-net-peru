@@ -1,0 +1,193 @@
+osm_id,lat,lon,nombre,man_made,tower_type,movil,operador,amenity
+2703608474,-12.0298427,-77.0896429,Hospital de la Solidaridad,NA,NA,NA,NA,hospital
+3247418689,-12.0402251,-76.9496835,Compañía de Bomberos Cap. CBP Andrés Román Gutiérrez Nº 169,NA,NA,NA,NA,fire_station
+3358845693,-12.0686343,-77.1304192,Centro de Asistencia CAP III Metropolitano,NA,NA,NA,ESSALUD,hospital
+4343631486,-12.1560063,-77.0226805,NA,NA,NA,NA,NA,fire_station
+4552742992,-12.071483,-77.0498354,UBAB Jesús María,NA,NA,NA,Essalud,hospital
+5008524121,-12.0877134,-77.0546996,Policlínico Peruano Japonés,NA,NA,NA,NA,hospital
+5082616122,-12.0609093,-77.0294569,Hospitalidad de la Solidaridad,NA,NA,NA,NA,hospital
+5320530371,-12.2020194,-76.9083631,Nuevo Milenio,NA,NA,NA,NA,fire_station
+5321006144,-12.2020054,-76.9083524,Estación de bombero Nuevo Milenio Nº 155,NA,NA,NA,Estación de bomberos voluntarios nuevo milenio Nº 155 en Villa Maria Del Triunfo,fire_station
+6342426572,-12.0164635,-76.9489154,Compañía de Bomberos Huachipa Nº 236,NA,NA,NA,NA,fire_station
+6571247132,-11.9585671,-76.990319,SISOL Salud Centro Médico Trabajadores Hospital del Niño,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+6641120698,-12.2722618,-76.8695176,Centro Materno Infantil de Lurín,NA,NA,NA,Ministerio de Salud,hospital
+6641155782,-12.0889137,-76.8818519,Centro de Salud Portada de Manchay,NA,NA,NA,Ministerio de Salud del Perú,hospital
+7657266220,-12.0318854,-77.0653723,JARA med,NA,NA,NA,Servicios medicos,hospital
+13626817206,-12.0788208,-77.0369795,Torre Trecca,NA,NA,NA,Seguro Social de Salud,hospital
+39413837,-12.078364,-77.0398924,Hospital Nacional Edgardo Rebagliati Martins,NA,NA,NA,EsSalud,hospital
+39557243,-12.0972266,-77.0655498,Hospital Víctor Larco Herrera,NA,NA,NA,Ministerio de Salud,hospital
+40301323,-12.0595788,-77.022335,Hospital Nacional Guillermo Almenara Irigoyen,NA,NA,NA,NA,hospital
+73954281,-12.0723555,-77.0610282,Hospital Santa Rosa,NA,NA,NA,NA,hospital
+75223325,-12.0584645,-77.0386672,Clinica Internacional,NA,NA,NA,NA,hospital
+110061951,-11.9141196,-77.0376892,Hospital Nacional Sergio E. Bernales,NA,NA,NA,NA,hospital
+111800007,-11.9431649,-77.0572333,Hospital Marino Molina Scippa,NA,NA,NA,EsSalud,hospital
+116948941,-11.9685031,-76.9956352,Hospital EsSalud Diaz Ufano,NA,NA,NA,Essalud,hospital
+117005900,-12.0618216,-76.9455002,Hospital Carlos Alcántara Butterfield,NA,NA,NA,EsSalud,hospital
+118291969,-11.9791498,-77.0529498,Centro Materno Infantil Tahuantinsuyo Bajo,NA,NA,NA,Miniterio de Salud,hospital
+122541909,-12.0434855,-77.0119093,Hospicio San Vicente,NA,NA,NA,NA,hospital
+122554771,-12.0558833,-77.0154142,Hospital Nacional Dos de Mayo,NA,NA,NA,NA,hospital
+126861263,-12.2115835,-76.9318382,Hospital Uldarico Roca Fernández,NA,NA,NA,EsSalud,hospital
+133436884,-12.042609,-77.098662,Hospital San José del Callao,NA,NA,NA,Gobierno Regional del Callao,hospital
+151303103,-12.0856358,-76.9921762,Instituto Nacional de Salud del Niño,NA,NA,NA,Instituto Nacional de Salud del Niño,hospital
+160691934,-12.1610982,-76.9582593,Hospital María Auxiliadora,NA,NA,NA,MINSA,hospital
+169309866,-12.0084055,-77.0036434,SISOL Salud San Juan de Lurigancho,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+172600382,-12.0495517,-77.0446197,Hospital Nacional Arzobispo Loayza,NA,NA,NA,Ministerio de Salud del Perú,hospital
+175012617,-12.0862779,-77.0612312,Hospital Central Militar Coronel Luis Arias Schreiber,NA,NA,NA,NA,hospital
+178024165,-11.8624589,-77.0793473,Hospital Carlos Ianfranco La Hoz de Puente Piedra,NA,NA,NA,Minsa,hospital
+185197319,-12.1441317,-77.0058183,Hospital Municipal de Surco,NA,NA,NA,Ministerio de Salud,hospital
+187076624,-11.9662322,-77.003619,Hospital de San Juan de Lurigancho,NA,NA,NA,MINSA,hospital
+194898813,-12.0649978,-77.0464372,Instituto Nacional de Salud del Niño,NA,NA,NA,NA,hospital
+195079449,-12.0708003,-77.0597313,Clínica Stella Maris,NA,NA,NA,NA,hospital
+195568056,-12.0730561,-77.059471,Clinica Centenario Peruano Japonesa,NA,NA,NA,NA,hospital
+278393025,-12.0849729,-77.0599318,Hospital Nacional PNP Luis N. Saenz,NA,NA,NA,Policía Nacioanl del Perú,hospital
+280672265,-12.0182836,-77.0560586,Compañía de Bomberos San Martín de Porres Nº 65,NA,NA,NA,NA,fire_station
+291986361,-12.0444486,-77.0440449,Policlínico Ramón Castilla,NA,NA,NA,EsSalud,hospital
+298392903,-12.0489705,-77.0352697,Compañía de Bomberos France Nº 3,NA,NA,NA,NA,fire_station
+303538832,-11.9765314,-77.0633977,Hospìtal Municipal de los Olivos,NA,NA,NA,NA,hospital
+307664865,-12.0218565,-77.0553445,Hospital Nacional Cayetano Heredia,NA,NA,NA,Minsa,hospital
+318176049,-12.5107139,-76.735895,Compañía de Bomberos Chilca - Nuestra Sra. de la Asunción de María Nº 133,NA,NA,NA,NA,fire_station
+318177491,-12.3671653,-76.7934453,Compañía de Bomberos Punta Negra Nº 125,NA,NA,NA,NA,fire_station
+318179966,-12.2718583,-76.870368,Compañía de Bomberos San Pedro de Lurín Nº 129,NA,NA,NA,NA,fire_station
+318180353,-12.2253374,-76.8596436,Compañía de Bomberos Pachacamac Nº 160,NA,NA,NA,NA,fire_station
+318180797,-12.2020192,-76.9084312,Compañía de Bomberos Nuevo Milenio Nº 155,NA,NA,NA,NA,fire_station
+318181468,-12.212888,-76.9384656,Compañía de Bomberos Villa el Salvador Nº 105,NA,NA,NA,NA,fire_station
+318182453,-12.1724386,-76.9453812,Compañía de Bomberos Villa María del Triunfo Nº 106,NA,NA,NA,NA,fire_station
+318182825,-12.1578108,-76.9798904,Compañía de Bomberos San Juan de Miraflores Nº 120,NA,NA,NA,NA,fire_station
+318183258,-12.1673595,-77.0261531,Compañía de Bomberos Garibaldi Nº 6,NA,NA,NA,NA,fire_station
+318183763,-12.1646414,-77.0243407,Compañía de Bomberos Olaya Nº 13,NA,NA,NA,NA,fire_station
+318184141,-12.1434992,-76.9887623,Compañía de Bomberos Santiago Apóstol Nº 134,NA,NA,NA,NA,fire_station
+318184627,-12.1468203,-77.02011,Compañía de Bomberos Grau Nº 16,NA,NA,NA,NA,fire_station
+318185550,-12.1199816,-77.0226135,Compañía de Bomberos Miraflores Nº 28,NA,NA,NA,Compañía de Bomberos de Perú,fire_station
+318186193,-12.107416,-77.0075557,Compañía de Bomberos Cosmopolita Nº 11,NA,NA,NA,NA,fire_station
+318187030,-12.1076016,-77.0554342,Compañía de Bomberos San Isidro Nº 100,NA,NA,NA,NA,fire_station
+318188471,-12.0786098,-76.916147,Compañía de Bomberos La Molina - Andrés Avelino Cáceres Nº 96,NA,NA,NA,NA,fire_station
+318277038,-12.0770614,-76.9763072,Compañía de Bomberos Salamanca Nº 127,NA,NA,NA,NA,fire_station
+318280078,-12.0819004,-77.0321975,Compañía de Bomberos Lima Nº 4,NA,NA,NA,NA,fire_station
+318312597,-12.0822205,-77.042072,Compañía de Bomberos Jesús María Nº 202,NA,NA,NA,NA,fire_station
+318313762,-12.0801866,-77.0657945,Compañía de Bomberos Magdalena Nº 36,NA,NA,NA,NA,fire_station
+318316477,-12.0856218,-77.0758943,Compañía de Bomberos San Miguel Nº 83,NA,NA,NA,NA,fire_station
+318316775,-12.0720826,-77.1645627,Compañía de Bomberos La Punta Nº 34,NA,NA,NA,NA,fire_station
+318317114,-12.063009,-77.1455968,Compañía de Bomberos Salvadora Callao Nº 9,NA,NA,NA,NA,fire_station
+318318108,-12.058216,-77.1430697,Compañía de Bomberos Unión Chalaca Nº 1,NA,NA,NA,NA,fire_station
+318320009,-12.0596457,-77.1400353,Compañía de Bomberos Perú Nº 18,NA,NA,NA,NA,fire_station
+318320227,-12.060974,-77.1309654,Compañía de Bomberos Callao Nº 15,NA,NA,NA,NA,fire_station
+318320460,-12.0593263,-77.1172158,Compañía de Bomberos Italia Nº 5,NA,NA,NA,NA,fire_station
+318320644,-12.0683791,-77.1131495,Compañía de Bomberos Garibaldi Nº 7,NA,NA,NA,NA,fire_station
+318320760,-12.0599843,-77.0926706,Compañía de Bomberos Antonio Alarco Espinoza Nº 60,NA,NA,NA,NA,fire_station
+318321529,-11.8760742,-77.1277765,Compañía de Bomberos Teniente CBP Lorenzo Giraldo Vega Nº 75,NA,NA,NA,NA,fire_station
+318321633,-11.8563171,-77.1196728,Compañía de Bomberos Brig. CPB Alejandro Reyes León - Mi Perú Nº 184,NA,NA,NA,NA,fire_station
+318331715,-11.8380336,-77.1252067,Compañía de Bomberos Cap. Adolfo Martín King Leoane Nº 207,NA,NA,NA,NA,fire_station
+318332021,-12.059734,-77.0457138,Compañía de Bomberos Internacional Nº 14,NA,NA,NA,NA,fire_station
+318332176,-12.0675166,-77.0211396,Compañía de Bomberos Victoria Nº 8,NA,NA,NA,NA,fire_station
+318334553,-12.0523133,-77.0354523,Compañía de Bomberos Salvadora Lima Nº 10,NA,NA,NA,Compañía de Bomberos,fire_station
+318337286,-12.0482617,-77.0262315,Compañía de Bomberos Roma Nº 2,NA,NA,NA,NA,fire_station
+318338405,-12.051204,-76.9974084,Compañía de Bomberos El Agustino Nº 176,NA,NA,NA,NA,fire_station
+318340434,-12.0494842,-76.9752439,Compañía de Bomberos Santa Anita - Técnico CBP Carlos León Delgado Nº 138,NA,NA,NA,NA,fire_station
+318346596,-11.9742631,-76.7622731,Compañía de Bomberos Chaclacayo Nº 115,NA,NA,NA,NA,fire_station
+318350020,-12.036316,-77.0280365,Compañía de Bomberos Rímac Nº 21,NA,NA,NA,NA,fire_station
+318351403,-11.9787096,-77.0059261,Compañía de Bomberos San Juan de Lurigancho Nº 121,NA,NA,NA,NA,fire_station
+318373783,-12.0076666,-77.0724893,Compañía de Bomberos Los Olivos Nº 161,NA,NA,NA,NA,fire_station
+318374771,-11.9966129,-77.0541466,Compañía de Bomberos Independencia Nº 168,NA,NA,NA,NA,fire_station
+318375227,-11.942786,-77.0623956,Compañía de Bomberos Comas Nº 124,NA,NA,NA,NA,fire_station
+318377837,-11.9024139,-77.0333277,Compañía de Bomberos Carabayllo Nº 164,NA,NA,NA,NA,fire_station
+318378906,-11.8672678,-77.0789205,Compañía de Bomberos Puente Piedra - Brigadier CBP Julio Upichihua Cárdenas Nº 150,NA,NA,NA,NA,fire_station
+318381493,-11.772066,-77.1724522,Compañía de Bomberos Ancón Nº 163,NA,NA,NA,NA,fire_station
+320104922,-11.7780721,-77.1621994,Centro de Salud San José,NA,NA,NA,Ministerio de Salud del Perú,hospital
+320125239,-12.0154571,-76.8203254,Hospital Huaycán,NA,NA,NA,Ministerio de Salud del Perú,hospital
+320415894,-12.0263522,-76.919855,Hospital Vitarte,NA,NA,NA,Ministerio de Salud del Perú,hospital
+338350659,-12.1126056,-76.9985145,Instituto Nacional de Enfermedades Neoplásicas,NA,NA,NA,Ministerio de Salud del Perú,hospital
+370242982,-12.198684,-76.9460858,Centro Materno Infantil San José,NA,NA,NA,Ministerio de Salud,hospital
+370795534,-12.1778068,-76.9456737,Centro Materno Infantil Daniel Alcides Carrión,NA,NA,NA,Ministerio de Salud,hospital
+370798546,-12.1775909,-76.940798,Hospital Guillermo Kaelín de la Fuente,NA,NA,NA,Villa María del Triunfo Salud S.A.C.,hospital
+371266564,-12.2304117,-76.9235885,Centro Materno Infantil César López Silva,NA,NA,NA,Ministerio de Salud,hospital
+372661035,-12.2320835,-76.9348658,Hospital de Emergencias Villa El Salvador,NA,NA,NA,Ministerio de Salud,hospital
+384203102,-12.045808,-76.9459986,Hospital Hermilio Valdizán,NA,NA,NA,NA,hospital
+391908588,-12.0370087,-77.0351378,Policlínico Francisco Pizarro,NA,NA,NA,EsSalud,hospital
+391950856,-12.0351778,-77.0338268,Hospital Augusto B. Leguía,NA,NA,NA,Policía Nacional del Perú,hospital
+391969601,-12.1479973,-76.9839532,Hospital Municipal Surco Salud,NA,NA,NA,NA,hospital
+393487901,-12.0342808,-77.0333512,Centro Materno Infantil Rímac,NA,NA,NA,Ministerio de Salud,hospital
+394469163,-12.1675144,-77.0191398,SISOL Salud Chorrillos,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+397720849,-11.9816277,-77.0715761,Carlos Cueto Fernandini,NA,NA,NA,Ministerio de Salud del Perú,hospital
+398850206,-12.0492017,-77.0682214,SISOL Salud Mirones,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+399741679,-11.8855408,-77.1257929,Hospital Chalaco II,NA,NA,NA,NA,hospital
+401495205,-12.0863606,-77.027636,Centro de Atención Primaria Alfredo Piazza Roberts,NA,NA,NA,Seguro Social de Salud,hospital
+405698392,-11.8285743,-77.1199428,Hospital Chalaco III,NA,NA,NA,NA,hospital
+406620283,-12.0412612,-76.992577,Hospital Nacional Hipólito Unanue,NA,NA,NA,NA,hospital
+406622143,-12.0394851,-76.9971154,SISOL Salud El Agustino,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+412486776,-12.0614801,-77.0217478,Centro de Rehabilitación Personal La Victoria,NA,NA,NA,Ministerio de Salud,hospital
+413980339,-12.0455757,-77.0160882,Instituto Nacional de Ciencias Neurológicas,NA,NA,NA,Minsa,hospital
+413981813,-12.0533618,-77.0224306,Centro de Salud - Raul Patrucco Puig,NA,NA,NA,NA,hospital
+419918941,-12.1918734,-77.0031664,Instituto Nacional de Rehabilitación,NA,NA,NA,Ministerio de Salud,hospital
+420078496,-12.0483235,-77.1077104,Hospital Alberto Leopoldo Barton Thompson,NA,NA,NA,NA,hospital
+428111371,-12.0631792,-77.1331135,Hospital de Rehabilitación,NA,NA,NA,Gobierno regional del Callao,hospital
+431592740,-12.1133097,-77.0281371,Hospital III Suarez Angamos,NA,NA,NA,ESSALUD,hospital
+431593693,-12.1038117,-77.029928,Hospital Central FAP,NA,NA,NA,Sanidad de la Fuerza Aerea del Peru,hospital
+433817288,-12.0587576,-77.089862,Hospital Centro Médico Naval,NA,NA,NA,Marina de Guerra del Perú,hospital
+435365523,-11.895985,-77.0434628,Posta Médica Los Geranios,NA,NA,NA,NA,hospital
+435485146,-12.0588893,-77.0310513,Hospital de Emergencias Grau,NA,NA,NA,EsSalud,hospital
+435520977,-11.8724109,-77.1256845,Hospital de Ventanilla,NA,NA,NA,Gobierno Regional,hospital
+436277181,-12.2194439,-76.9459172,Centro Materno Infantil Juan Pablo II,NA,NA,NA,Ministerio de Salud,hospital
+436278843,-12.0840314,-77.0395119,SISOL Salud Lince,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+436736892,-12.0588438,-77.1047898,Centro de Salud Municipal Bellavista,NA,NA,NA,NA,hospital
+437364307,-11.9864097,-77.0080741,Clinica Limatambo,NA,NA,NA,NA,hospital
+437496535,-12.0609181,-77.02994,SISOL Salud La Victoria,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+437642241,-12.1642364,-76.9696938,Centro de Atencion Primaria Essalud,NA,NA,NA,Seguro Social de Salud,hospital
+437683615,-12.1716877,-76.9455733,SISOL Salud Villa María del Triunfo,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+438039050,-12.0306442,-77.090178,Hospital de la Solidaridad,NA,NA,NA,NA,hospital
+438467230,-12.0206015,-77.0565104,Instituto Nacional Honorio Delgado - Hideyo Noguchi,NA,NA,NA,Minsa,hospital
+439241364,-12.0131949,-77.0516846,SISOL Salud Metro UNI,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+439627528,-12.0155894,-77.0978726,Hospital Luis Negreiros Vega,NA,NA,NA,EsSalud,hospital
+439895202,-12.0200432,-77.1027558,Hospital Chalaco,NA,NA,NA,Gobierno Regional del Callao,hospital
+440417250,-12.036903,-77.0845143,N 15 Carmen de la Legua,NA,NA,NA,NA,fire_station
+442795790,-12.182453,-77.0165561,Instituto Nacional de Salud,NA,NA,NA,Ministerio de Salud,hospital
+445502597,-12.1087954,-77.0120165,Centro de Salud Villa Victoria,NA,NA,NA,NA,hospital
+445599680,-12.2103901,-76.8769928,Puesto de Salud Quebrada Verde,NA,NA,NA,Minsa,hospital
+446209514,-12.017682,-77.0785575,Ama Kella II,NA,NA,NA,Ministerio de Salud,hospital
+446549659,-12.0618131,-77.1068552,Centro de Salud Perú-Korea Bellavista,NA,NA,NA,NA,hospital
+450128393,-12.0785806,-77.0371483,Complejo Hospitalario Arenales,NA,NA,NA,EsSalud,hospital
+456121389,-12.0411843,-76.9689242,Centro Materno Infantil Santa Anita,NA,NA,NA,Minsa,hospital
+465231306,-11.7744799,-77.1727604,Centro de Salud Materno Infantil Ancón,NA,NA,NA,Ministerio de Salud del Perú,hospital
+465561830,-11.8690825,-77.0711593,SISOL Salud Puente Piedra,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+467541142,-12.0259705,-76.9173553,Hospital de Lima Este - Vitarte,NA,NA,NA,NA,hospital
+467541158,-12.0270597,-76.9237198,Hospital Essalud II Vitarte,NA,NA,NA,NA,hospital
+468780933,-11.886505,-77.124386,Policlinico Hna. María Donrose Sutmoller,NA,NA,NA,Essalud,hospital
+476226205,-12.0574631,-77.0339022,Clínica Maison de Sante,NA,NA,NA,NA,hospital
+483500696,-11.9868928,-76.8137426,Centro Materno Infantil Miguel Grau,NA,NA,NA,Minsa,hospital
+485244256,-12.0497716,-77.0418067,Hospital Nacional Docente Madre Niño San Bartolome,NA,NA,NA,NA,hospital
+485409220,-12.0584042,-77.0214361,Hospital Especializado de Emergencias Pediatricas,NA,NA,NA,NA,hospital
+517495828,-12.0454468,-76.9472387,Hospital Jorge Voto Bernales,NA,NA,NA,EsSalud,hospital
+525919060,-12.2434869,-76.8747684,Centro de Salud Villa Libertad,NA,NA,NA,Ministerio de Salud,hospital
+554971747,-11.9751693,-77.0023163,Hospital Municipal de San Juan de Lurigancho,NA,NA,NA,NA,hospital
+565936062,-12.0522981,-77.022102,Instituto Nacional Materno Perinatal,NA,NA,NA,Ministerio de Salud,hospital
+568396654,-12.1661296,-77.0202613,Centro Materno Infantil Chorrillos II,NA,NA,NA,Ministerio de Salud,hospital
+604765913,-12.0170928,-77.030133,SISOL Salud Amancaes,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+618688385,-12.1281002,-77.0177417,Hospital José Casimiro Ulloa,NA,NA,NA,MINSA,hospital
+677356153,-11.8420735,-77.1500731,Compañía de Bomberos Pachacútec Nº 232,NA,NA,NA,NA,fire_station
+699538736,-12.0289805,-76.9262702,SISOL Salud Ate,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+699540898,-12.0493096,-77.0353334,SISOL Salud Camaná,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+699674838,-11.9792433,-77.0768774,SISOL Salud Los Olivos,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+699686753,-12.3269934,-76.8248976,SISOL Salud Punta Hermosa,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+720318095,-12.0521727,-77.0450286,NA,NA,NA,NA,NA,hospital
+720385352,-12.0524773,-77.0444245,SINDICATO UNICO DE TRABAJADORES DE SALUD,NA,NA,NA,NA,hospital
+777346011,-12.0642727,-77.1218635,Hospital Nacional Alberto Sabogal Sologuren,NA,NA,NA,Seguro Social de Salud,hospital
+777346012,-12.0632677,-77.1241176,Hospital Nacional Daniel Alcides Carrión,NA,NA,NA,Ministerio de Salud del Perú,hospital
+780622087,-12.0656201,-77.0943362,Policlínico Octavio Mongrut,NA,NA,NA,Seguro Social de Salud,hospital
+780628452,-12.1032022,-77.020556,Instituto de Salud Oral FAP,NA,NA,NA,Fuerza Aérea del Perú,hospital
+806448220,-12.052817,-77.0289031,NA,NA,NA,NA,NA,hospital
+831057544,-12.1619921,-77.0199832,Hospital Militar Geriátrico,NA,NA,NA,Ejército del Perú,hospital
+835415398,-12.0636,-76.9459778,Centro Médico Municipal Molisalud,NA,NA,NA,Municipalidad de La Molina,hospital
+866156340,-12.0868606,-77.0806031,Hospital Geriátrico San José,NA,NA,NA,Policía Nacional del Perú,hospital
+1016726371,-12.0712644,-77.0133991,Centro De Salud Mental Comunitario La Victoria,NA,NA,NA,NA,hospital
+1064411507,-12.0188756,-77.1217739,NA,NA,NA,NA,NA,fire_station
+1208921101,-12.0234297,-77.056028800000007,NA,NA,NA,NA,NA,hospital
+1340373104,-12.0848068,-77.0591135,Hospital Nacional PNP Luis N. Saenz,NA,NA,NA,Policía Nacioanl del Perú,hospital
+1408453593,-11.7761821,-77.1611407,Futuro Centro Materno Infantil,NA,NA,NA,Gobierno Regional,hospital
+1444376436,-12.2103786,-76.8769021,Puesto de Salud Quebrada Verde,NA,NA,NA,Minsa,hospital
+1444376437,-12.2103446,-76.8769244,Puesto de Salud Quebrada Verde,NA,NA,NA,Minsa,hospital
+1444376438,-12.2102957,-76.8769626,Puesto de Salud Quebrada Verde,NA,NA,NA,Minsa,hospital
+1499461722,-12.1096826,-77.027185,Policlínico Suárez,NA,NA,NA,Seguro Social de Salud,hospital
+1525966280,-12.1634684,-76.9697483,Hospital de Especialidades Quirurgicas San Juan de Miraflores,NA,NA,NA,Essalud,hospital
+1569285459,-12.0340733,-77.0242893,Policlínico Parroquial Nuestra Señora de los Ángeles,NA,NA,NA,NA,hospital
+9721207,-11.9012181,-77.0343618,SISOL Salud Carabayllo,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+9724165,-11.9706344,-77.0572059,SISOL Salud Comas,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital
+9724186,-12.1948365,-76.9596516,SISOL Salud Villa El Salvador,NA,NA,NA,Municipalidad Metropolitana de Lima,hospital

@@ -1,0 +1,189 @@
+ Decreto Supremo que aprueba la Norma que establece disposiciones para la prestación del servicio de Roaming Nacional - DECRETO SUPREMO - 
+ Buscar Filtros 
+ PDF HTML Cuadernillo 
+ Fecha de publicación: 09/03/2023 
+ Aprueban el “Contenido Mínimo del Plan de Minimización y Manejo de Residuos Sólidos No Municipales”
+ Decreto Supremo que aprueba la Norma que establece disposiciones para la prestación del servicio de Roaming Nacional 
+ decreto supremo
+ Nº 002-2023-mtc
+ LA PRESIDENTA DE LA REPÚBLICA
+ CONSIDERANDO:
+ Que, el artículo 1 del Texto Único Ordenado de la Ley de Telecomunicaciones, aprobado por Decreto Supremo Nº 013-93-TCC ( Ley de Telecomunicaciones), establece que el Estado promueve la convergencia de redes y servicios, facilitando la interoperabilidad de diferentes plataformas de red, así como la prestación de diversos servicios y aplicaciones sobre una misma plataforma tecnológica, reconociendo a la convergencia como un elemento fundamental para el desarrollo de la Sociedad de la Información y la integración de las diferentes regiones del país; asimismo, mediante el artículo 2 de la citada norma, se declara de interés nacional la modernización y desarrollo de las telecomunicaciones, dentro del marco de libre competencia, correspondiendo al Estado su fomento, administración y control; 
+ Que, el numeral 8 del artículo 75 de la Ley de Telecomunicaciones, establece dentro de las funciones del Ministerio de Transportes y Comunicaciones, incentivar el desarrollo de las industrias de telecomunicaciones y de servicios informáticos sustentados en base a servicios de telecomunicaciones en orden al desarrollo tecnológico del país; 
+ Que, el literal d) del artículo 4 de la Ley N° 29370, Ley de Organización y Funciones del Ministerio de Transportes y Comunicaciones, establece que el Ministerio de Transportes y Comunicaciones tiene competencia exclusiva en materia de infraestructura y servicios de comunicaciones; 
+ Que, asimismo, el numeral 18 del artículo 1 del Capítulo I Complementario del Decreto Legislativo N° 702, Decreto Legislativo que declara de necesidad pública el desarrollo de telecomunicaciones y aprueban normas que regulan la promoción de inversión privada en telecomunicaciones, establece dentro de las funciones del Ministerio de Transportes y Comunicaciones, la de normar y regular el acceso y uso de Roaming Nacional; 
+ Que, el artículo 1 del Título I de los Lineamientos de Política de Apertura del Mercado de Telecomunicaciones del Perú, aprobado por Decreto Supremo N° 020-98-MTC, señala como objetivo de los lineamientos para desarrollar y consolidar la competencia y la expansión de las telecomunicaciones el establecer un marco que promueva el desarrollo de los servicios públicos de telecomunicaciones, consolidando la competencia y reduciendo la brecha en infraestructura, y permitiendo la expansión de servicios de telecomunicaciones en áreas rurales y lugares de preferente interés social; 
+ Que, el 86% de la población del área urbana cuenta con una cobertura total del servicio móvil, mientras que en el área rural esta proporción se reduce al 3% de la población. Los centros poblados con cobertura parcial, donde están presentes algunas de las empresas operadoras, corresponden principalmente al ámbito rural y agrupan al 49.6% de su población, con la mayor presencia de una operadora (25.8%) y dos operadoras (15.4%), mientras que en el ámbito urbano solo afecta al 12.8% de la población; por lo que, a fin de contribuir al desarrollo social y económico de estos centros poblados, resulta conveniente que el marco regulatorio facilite el Roaming Nacional; 
+ Que, a través del Roaming Nacional, los usuarios se verán beneficiados en tanto podrán contar con conectividad a pesar que su operador no cuente con cobertura móvil en una zona determinada, lo que mejorará el acceso y los servicios brindados a los ciudadanos; 
+ Que, en consecuencia, es importante adoptar medidas que permitan expandir de manera más acelerada la oferta de los servicios públicos móviles en zonas donde la dificultad del despliegue de redes de comunicaciones y la baja demanda de servicios hace poco atractiva la inversión por parte de los operadores; 
+ Que, corresponde al Ministerio de Transportes y Comunicaciones como entidad competente para normar y regular el acceso y uso de Roaming Nacional, aprobar la norma que establece disposiciones para la prestación del servicio de Roaming Nacional, la cual incluye principios, criterios, condiciones y obligaciones para la suscripción del acuerdo de Roaming Nacional o la emisión del mandato correspondiente, dando predictibilidad a los interesados en establecer este tipo de relaciones comerciales en beneficio de la población; 
+ De conformidad con lo establecido en la Ley N° 29370, Ley de Organización y Funciones del Ministerio de Transportes y Comunicaciones; el Decreto Supremo N° 013-93-TCC, que aprueba el Texto Único Ordenado de la Ley de Telecomunicaciones; el Decreto Legislativo N° 702, Decreto Legislativo que declara de necesidad pública el desarrollo de Telecomunicaciones y aprueba normas que regulan la promoción de inversión privada en telecomunicaciones; y el Decreto Supremo N° 020-98-MTC que aprueba los Lineamientos de Política de Apertura del Mercado de Telecomunicaciones del Perú; 
+ SE DECRETA: 
+ Artículo 1.- Aprobación 
+ Aprobar la Norma que establece disposiciones para la prestación del servicio de Roaming Nacional, que consta de cuatro (4) capítulos, veinte (20) artículos, tres (3) Disposiciones Complementarias Finales y una (1) Disposición Complementaria Transitoria, que forma parte del presente Decreto Supremo. 
+ Artículo 2.- Publicación 
+ Disponer la publicación del presente Decreto Supremo en la Plataforma Digital Única del Estado Peruano para Orientación al Ciudadano (www.gob.pe), así como en las sedes digitales de la Presidencia del Consejo de Ministros (www.gob.pe/pcm) y del Ministerio de Transportes y Comunicaciones (www.gob.pe/mtc), el mismo día de su publicación en el diario oficial El Peruano. 
+ Artículo 3.- Refrendo 
+ El presente Decreto Supremo es refrendado por el Presidente del Consejo de Ministros y por la Ministra de Transportes y Comunicaciones. 
+ Dado en la Casa de Gobierno, en Lima, a los ocho días del mes de marzo del año dos mil veintitrés. 
+ DINA ERCILIA BOLUARTE ZEGARRA 
+ Presidenta de la República 
+ LUIS ALBERTO OTÁROLA PEÑARANDA 
+ Presidente del Consejo de Ministros 
+ PAOLA PIERINA LAZARTE CASTILLO 
+ Ministra de Transportes y Comunicaciones 
+ NORMA QUE ESTABLECE DISPOSICIONES PARA LA PRESTACIÓN DEL SERVICIO DE ROAMING NACIONAL 
+ CAPÍTULO I 
+ DISPOSICIONES GENERALES 
+ Artículo 1.- Objeto 
+ La presente norma tiene por objeto establecer disposiciones que permitan la prestación del servicio de Roaming Nacional. 
+ Artículo 2.- Finalidad 
+ La presente norma tiene por finalidad permitir la continuidad del servicio público móvil a nivel nacional, con especial interés en los centros poblados de menor población. 
+ Artículo 3.- Ámbito de aplicación 
+ Las disposiciones contenidas en la presente norma son de aplicación a todos los operadores de servicios públicos móviles que cuenten con asignación de espectro radioeléctrico, en tanto se cumplan las condiciones establecidas en el artículo 6 de la presente norma. 
+ Artículo 4.- Definiciones y abreviaturas 
+ Para efectos de la presente norma, se entiende por: 
+ a) 
+ b) 
+ Acuerdo de Roaming Nacional 
+ Centro poblado 
+ : 
+ : 
+ Contrato comercial suscrito entre dos concesionarios de servicios públicos móviles por el cual se permite el acceso a la red móvil del Operador de la red visitada a cambio de una contraprestación, a fin de poder brindar el servicio de Roaming Nacional a los usuarios del Operador de la red de origen. 
+ Para efectos de la presente norma, son aquellos listados en el Directorio Institucional de Centros Poblados del OSIPTEL, aprobado por Resolución de Gerencia General N° 326-2020-GG/OSIPTEL o norma que lo modifique o sustituya. 
+ c) 
+ DGPPC 
+ : 
+ Dirección General de Programas y Proyectos de Comunicaciones. 
+ d) 
+ DGFSC 
+ : 
+ Dirección General de Fiscalizaciones y Sanciones en Comunicaciones. 
+ e) 
+ Mandato de Roaming Nacional 
+ : 
+ Documento emitido por el Osiptel, en caso el Operador de la red visitada se niegue a otorgar acceso a sus redes móviles al Operador de la red de origen, para la prestación del servicio de Roaming Nacional en los centros poblados que cumplan las condiciones establecidas en el artículo 6. 
+ f) 
+ MTC 
+ : 
+ Ministerio de Transportes y Comunicaciones. 
+ g) 
+ h) 
+ OIMR 
+ Operador de la red de origen 
+ : 
+ : 
+ Es el operador de la infraestructura móvil rural, como concesionario habilitado por el MTC para prestar servicios portadores para operar estaciones radioeléctricas de los servicios públicos móviles en áreas rurales y/o lugares de preferente interés social donde los operadores móviles no cuentan con infraestructura de red propia. El OIMR no tiene usuarios finales móviles y tampoco posee numeración propia ni asignación de espectro radioeléctrico para servicios públicos móviles. 
+ Operador concesionario de servicios públicos móviles que solicita la prestación del servicio de Roaming Nacional. 
+ i) 
+ Operador de la red visitada 
+ : 
+ Operador concesionario de servicios públicos móviles que presta el servicio Roaming Nacional. 
+ j) 
+ Osiptel 
+ : 
+ Organismo Supervisor de la Inversión Privada en Telecomunicaciones. 
+ k) 
+ Roaming Nacional 
+ : 
+ Servicio que permite que un usuario continúe teniendo el servicio brindado por su operador, empleando automáticamente una red móvil distinta a la de su operador. 
+ Artículo 5.- Principios aplicables al Roaming Nacional 
+ Los siguientes principios rigen el Roaming Nacional:
+ a) Principio de libre acceso: En virtud de este principio, el acceso y uso de la red móvil sólo queda sujeta al cumplimiento de los requisitos y reglas establecidas en la presente norma y demás normas complementarias.
+ b) Principio de bienestar de la sociedad: El servicio de Roaming Nacional permite la continuidad de los servicios públicos móviles en beneficio de la sociedad.
+ c) Principio de igualdad y no discriminación: El Operador de la red visitada brinda a quienes soliciten acceso al servicio de Roaming Nacional, el mismo tratamiento en condiciones iguales, así como tratos diferenciados, objetivos y razonables, en contextos desiguales. 
+ CAPÍTULO II
+ DISPOSICIONES PARA EL ROAMING NACIONAL
+ Artículo 6.- Condiciones aplicables a los centros poblados para el servicio de Roaming Nacional 
+ El acceso a las redes móviles asociadas a la prestación del servicio de Roaming Nacional regulado por la presente norma es obligatorio cuando el centro poblado cumpla las siguientes condiciones:
+ 1. Contar con prestación del servicio público móvil del Operador de la red visitada, a través de una red propia o de un OIMR, cuya red haya sido desplegada con una antigüedad de tres (3) años, contado desde el año siguiente de inicio de sus operaciones. 
+ 2. Contar con una población de máximo 1 000 habitantes, y en los que el operador de la red de origen no brinde el servicio público móvil.
+ Artículo 7.- Modalidades y criterios del Roaming Nacional 
+ 7.1 La prestación del servicio de Roaming Nacional, regulado por la presente norma, se realiza bajo las siguientes modalidades:
+ a) Acuerdo de Roaming Nacional: Entre el Operador de la red visitada y el Operador de la red de origen, en relación a uno o más centros poblados.
+ b) Mandato de Roaming Nacional: A cargo del Osiptel, cuando no se llegue a un acuerdo entre los Operadores, en los casos en que el acceso sea obligatorio. 
+ 7.2 Para la modalidad indicada en el literal b) del numeral 7.1, el Osiptel establece las condiciones técnicas y/o económicas aplicables al servicio de Roaming Nacional, a ser cumplidas por los Operadores.
+ Artículo 8.- Obligaciones y derechos del Operador de la red visitada 
+ 8.1 Las obligaciones del operador de la red visitada son las siguientes:
+ a) Permitir el acceso a su red en el marco de lo establecido en el acuerdo o mandato de Roaming Nacional.
+ b) Cumplir con el estándar de calidad de los servicios públicos móviles prestados a los usuarios mediante el Roaming Nacional que debe ser igual al ofrecido a sus propios usuarios.
+ c) Proporcionar al MTC y al Osiptel respectivamente, la documentación que se le requiera en el marco del acuerdo o del mandato de Roaming Nacional.
+ d) Aplicar al Operador de la red de origen, la contraprestación y/o condiciones económicas más favorables que haya acordado con otro operador en condiciones similares a nivel nacional.
+ e) Otras obligaciones establecidas en el acuerdo o mandato de Roaming Nacional o en la normativa aplicable.
+ 8.2 Los derechos del Operador de la red visitada son los siguientes : 
+ a) Recibir el pago oportuno de la contraprestación por el servicio de Roaming Nacional.
+ b) Otros derechos establecidos en el acuerdo o mandato de Roaming Nacional o en la normativa aplicable.
+ Artículo 9.- Obligaciones y derechos del Operador de la red de origen 
+ 9.1 Las obligaciones del Operador de la red de origen son las siguientes: 
+ a) Realizar el pago oportuno de la contraprestación por el servicio de Roaming Nacional.
+ b) Comunicar al MTC, a través de la DGPPC, la suscripción del acuerdo de Roaming Nacional, así como remitir el íntegro del acuerdo y las modificaciones realizadas o su conclusión, dentro del plazo establecido en los numerales 10.2 y 10.3 del artículo 10 de la presente norma.
+ c) Proporcionar al MTC y al Osiptel respectivamente, la documentación que se le requiera en el marco del Acuerdo o del Mandato de Roaming Nacional.
+ d) Otras obligaciones establecidas en el Acuerdo o Mandato de Roaming Nacional o la normativa aplicable. 
+ 9.2 Los derechos del Operador de la red de origen son los siguientes:
+ a) Acceso a las instalaciones de red asociadas al Servicio de Roaming Nacional en los términos establecidos en el Acuerdo o Mandato de Roaming Nacional, así como cualquier acuerdo complementario suscrito por las partes. 
+ b) Otros derechos establecidos en el Acuerdo o Mandato de Roaming Nacional o la normativa aplicable. 
+ CAPÍTULO III 
+ ACUERDO Y MANDATO DE ROAMING NACIONAL 
+ Artículo 10.- Acuerdo de Roaming Nacional 
+ 10.1 El periodo de negociación para establecer los términos y condiciones del Acuerdo de Roaming Nacional no puede ser superior a sesenta (60) días calendarios, contado desde la fecha en que el Operador de la red de origen realiza la solicitud al Operador de la red visitada. 
+ 10.2 El Acuerdo de Roaming Nacional suscrito es remitido al MTC, en un plazo de quince (15) días hábiles desde su suscripción, a fin que sea incluido en el Registro de Roaming Nacional, a que se refiere el artículo 15. 
+ 10.3 Las modificaciones o conclusión del Acuerdo de Roaming Nacional son comunicadas al MTC dentro del mismo plazo indicado en el numeral 10.2 del artículo 10. 
+ 10.4 El Acuerdo de Roaming Nacional puede pactarse por el plazo que establezcan las partes, no pudiendo exceder la vigencia de la concesión de servicios públicos de telecomunicaciones, del Operador de la red de origen o de la red visitada. 
+ 10.5 Los operadores de servicios públicos móviles pueden suscribir Acuerdos de Roaming Nacional en aquellos casos que no se cumplan con las condiciones establecidas en el artículo 6 y no se rigen por la presente norma, debiendo remitir al MTC el acuerdo suscrito y sus modificaciones en el plazo dispuesto en el numeral 10.2 del artículo 10. 
+ 10.6 La suscripción del Acuerdo de Roaming Nacional no libera a las partes del cumplimiento de las normas de libre y leal competencia, ni de otras normas sectoriales que le sean aplicables. 
+ Artículo 11.- Contenido mínimo del Acuerdo y Mandato de Roaming Nacional 
+ El Acuerdo y el Mandato de Roaming Nacional contienen, como mínimo lo siguiente: 
+ a) Detalle de los tipos de tráfico (voz, datos, SMS). 
+ b) Indicación de la estación base celular y centro poblado seleccionado. 
+ c) Monto de la contraprestación económica por el servicio de Roaming Nacional. 
+ d) Procedimientos a ser aplicados en caso de contingencia que afecten la provisión de servicios públicos móviles. 
+ e) Especificación de los puntos de interconexión y su ubicación geográfica; y, características técnicas. 
+ f) Previsiones y plazo para la finalización de las operaciones, una vez concluido el Acuerdo de Roaming Nacional. 
+ g) Habilitación para realizar llamadas a los números cortos de emergencia sin ninguna restricción. 
+ h) Habilitación para la difusión de mensajes a través del Sistema de Mensajería de Alerta Temprana (SISMATE), en beneficio de los usuarios que hagan uso del Roaming Nacional. 
+ i) La priorización a los usuarios de la Red Especial de Comunicaciones en Situaciones de Emergencia (RECSE). 
+ j) De realizarse el tratamiento de datos personales a través del servicio de Roaming Nacional, deberá consignarse una cláusula para el cumplimiento de las disposiciones de la Ley N° 29733, Ley de Protección de Datos Personales y su Reglamento. 
+ k) Obligaciones establecidas en la presente norma y otras que les son aplicables. 
+ l) Otras disposiciones establecidas por el Osiptel en el marco de los mandatos en atención a lo indicado en la Primera Disposición Complementaria Final de la presente norma. 
+ Artículo 12.- Cláusula de adecuación de condiciones más favorables 
+ El Acuerdo de Roaming Nacional incluye una cláusula que garanti za la adecuación de la contraprestación a condiciones econ ómicas más favorables pactadas con otro operador, en condiciones similares a nivel nacional. 
+ Artículo 13.- Causales de resolución del Acuerdo de Roaming Nacional 
+ 13.1 El Acuerdo de Roaming Nacional queda resuelto de pleno derecho, además de las causales establecidas por las partes, por las que se detallan a continuación: 
+ a) Por vencimiento del plazo del Acuerdo de Roaming Nacional. 
+ b) Por mutuo acuerdo. 
+ c) Por culminación de la concesión de servicios públicos de telecomunicaciones, del Operador de la red de origen o de la red visitada. 
+ 13.2 En caso de resolución del Acuerdo de Roaming Nacional, las partes adoptan los mecanismos necesarios para no causar perjuicio a los abonados y/o usuarios de los servicios involucrados, sin afectar la continuidad de los servicios públicos móviles, brindados a los usuarios finales, conforme a lo establecido en el Texto Único Ordenado de las Condiciones de Uso de los Servicios Públicos, aprobado por Resolución de Consejo Directivo N° 138-2012-CD-OSIPTEL o norma que la sustituya. 
+ Artículo 14.- Centros Poblados aplicables al Roaming Nacional 
+ Los centros poblados a tomar en cuenta para la suscripción del Acuerdo o la emisión del Mandato de Roaming Nacional, de acuerdo a lo establecido en el artículo 6 de la presente norma, son los seleccionados del Directorio Institucional de Centros Poblados a cargo del Osiptel, el mismo que se encarga de su actualización periódica en su portal institucional, en los plazos que establezca. 
+ Artículo 15.- Registro de Roaming Nacional 
+ 15.1 Créase el Registro de Roaming Nacional, el mismo que se encuentra a cargo de la DGPPC, en el que se publican los acuerdos suscritos y sus modificaciones, así como los mandatos de Roaming Nacional emitidos por el Osiptel. 
+ 15.2 La DGPPC se encarga de la actualización y consolidación del registro, el cual es de acceso público y gratuito, a través de la sede digital del MTC. 
+ Artículo 16.- Evaluación periódica a cargo del MTC 
+ El MTC, a través de la Dirección General de Políticas y Regulación en Comunicaciones, evalúa y actualiza si corresponde, las condiciones, modalidades y criterios para el servicio de Roaming Nacional, atendiendo a la evolución tecnológica y del mercado. 
+ Dicha evaluación se realiza cada tres (3) años, sin perjuicio que el MTC pueda efectuar la evaluación en períodos menores. 
+ Para el caso de centros poblados con presencia de pueblos indígenas u originarios se coordina con el Ministerio de Cultura, respecto de las características geográficas, ambientales y culturales de la población beneficiaria. 
+ CAPÍTULO IV 
+ FISCALIZACIÓN, SUPERVISIÓN Y SANCIÓN 
+ Artículo 17.- Acciones de fiscalización, supervisión y sanción 
+ La DGFSC del MTC y el Osiptel, tienen a su cargo la supervisión y fiscalización del cumplimiento de lo establecido en la presente norma, en el marco de sus respectivas competencias. 
+ Artículo 18.- Infracciones y sanciones 
+ Constituyen infracciones aquellas tipificadas en el numeral 10 del artículo 88 de la Ley de Telecomunicaciones, o normas que la modifiquen, así como aquellas tipificadas por el Osiptel en el marco de sus competencias. 
+ Artículo 19.- Independencia de las sanciones administrativas 
+ Las sanciones administrativas son independientes de las sanciones y/o consecuencias contractuales previstas por las partes en el Acuerdo de Roaming Nacional.
+ Artículo 20.- Financiamiento 
+ La implementación de lo dispuesto en la presente norma se financia con cargo al presupuesto institucional de las entidades involucradas, sin demandar recursos adicionales al Tesoro Público.
+ DISPOSICIONES COMPLEMENTARIAS FINALES
+ Primera.- Normas complementarias a cargo del OSIPTEL 
+ El Osiptel de acuerdo a sus competencias, en un plazo de ciento veinte (120) días hábiles, contado a partir del día siguiente de la publicación del presente Decreto Supremo, aprueba las normas complementarias que regulen el Mandato de Roaming Nacional, en función a las condiciones técnicas y económicas que permitan su aplicación, así como determina el procedimiento aplicable para la atención y solución de controversias que pudieran presentarse en la aplicación de la presente norma. 
+ Segunda.- Implementación del Registro de Roaming Nacional 
+ En un plazo de sesenta (60) días hábiles, contado a partir del día siguiente de la publicación del presente Decreto Supremo, la DGPPC implementa el Registro de Roaming Nacional, el cual se incluye dentro de la sede digital del MTC para su acceso público. 
+ Tercera.- Interoperabilidad y datos abiertos Roaming Nacional 
+ El MTC, haciendo uso de los datos e información del Registro de Roaming Nacional, publica servicios de información en la Plataforma Nacional de Interoperabilidad atendiendo lo dispuesto en la normativa aplicable. 
+ El OSIPTEL publica datos en formatos abiertos en la Plataforma Nacional de Datos Abiertos y, como mínimo, publica la lista de Centros Poblados aplicables al Roaming Nacional y las infracciones impuestas y registradas. Dicha información se actualiza de manera semestral.
+ DISPOSICIÓN COMPLEMENTARIA TRANSITORIA
+ Única.- Incorporación de Acuerdos de Roaming Nacional 
+ El Acuerdo de Roaming Nacional suscrito con anterioridad a la entrada en vigencia de la presente norma es incorporado al Registro de Roaming Nacional, a cargo de la DGPPC. Para tal efecto, el Acuerdo que haya sido previamente comunicado al MTC, se incluye en el Registro de Roaming Nacional.
+ El Acuerdo suscrito que no haya sido comunicado al MTC a la fecha de publicación del presente Decreto Supremo, se remite a este en un plazo de sesenta (60) días hábiles contados a partir de su publicación, a fin que la DGPPC lo incluya en el Registro de Roaming Nacional.
+ 2158597-1 
+ Buscador El Peruano — Diario Oficial · © 2026
+ 

@@ -1,0 +1,124 @@
+# Escenario P1 para el motor multiagente (versión 2, alineada con knowledge_base/kb_articulos.jsonl)
+# Los hechos son SINTÉTICOS; la normativa es real (ver knowledge_base).
+meta:
+  id: P1-LIMA-M8
+  titulo: "Sismo M8.0 frente a Lima Sur: telecomunicaciones de emergencia"
+  pais: Peru
+  dominio: "Telecomunicaciones de emergencia y gobernanza de la IA en redes"
+  nota: "Los hechos se liberan por etapas y cada agente solo recibe los que le corresponden (requisito 5 del reto)."
+
+agentes:
+  operador_a:
+    nombre: "Operador A (concesionario de servicio público móvil)"
+    mandato: "Mantener y restablecer su red, cumplir las obligaciones de emergencia y proteger el secreto de las comunicaciones y los datos de sus usuarios."
+    sesgo: "Prudente frente al riesgo legal: no ejecuta una acción sin norma u orden que la habilite."
+    categorias_kb: [01_Constitucion, 03_Telecom_Emergencias, 04_Proteccion_Datos, 05_IA_Gobernanza]
+    puede_escribir_a: [regulador, defensa_civil, autoridad_datos, operador_b]
+  regulador:
+    nombre: "Regulador de telecomunicaciones (MTC como rector u OSIPTEL como supervisor)"
+    mandato: "Asegurar la continuidad del servicio y hacer cumplir las obligaciones de emergencia. Debe indicar en cada decisión si actúa como MTC u OSIPTEL."
+    sesgo: "Solo ordena lo que una norma le permite ordenar."
+    categorias_kb: [03_Telecom_Emergencias, 05_IA_Gobernanza, 06_Internacional, 07_Referentes_Globales, 08_Estandares_UIT]
+    puede_escribir_a: [operador_a, defensa_civil]
+  defensa_civil:
+    nombre: "INDECI / Centro de Operaciones de Emergencia Nacional (COEN)"
+    mandato: "Conducir la respuesta, comunicar la emergencia a los operadores, definir zonas afectadas y alertar a la población por el SISMATE."
+    sesgo: "Prioriza salvar vidas, pero actúa dentro de sus competencias legales."
+    categorias_kb: [01_Constitucion, 02_Gestion_Riesgo_Desastres, 03_Telecom_Emergencias, 04_Proteccion_Datos]
+    puede_escribir_a: [operador_a, regulador, autoridad_datos]
+  autoridad_datos:
+    nombre: "Autoridad Nacional de Protección de Datos Personales (MINJUSDH)"
+    mandato: "Pronunciarse sobre la licitud del tratamiento de datos personales, incluidos los datos de localización."
+    sesgo: "Protege los derechos del titular y busca vías lícitas alternativas (p. ej., anonimización)."
+    categorias_kb: [01_Constitucion, 04_Proteccion_Datos, 02_Gestion_Riesgo_Desastres, 07_Referentes_Globales]
+    puede_escribir_a: [operador_a, defensa_civil]
+
+entorno:
+  operador_b:
+    sin_orden: "Rechazo el roaming: no existe acuerdo de Roaming Nacional en esta zona y temo congestionar mi propia red."
+    con_orden: "Acepto roaming temporal limitado a voz, SMS y datos de baja velocidad, sujeto a capacidad, porque existe una orden de autoridad competente."
+
+etapas:
+  - id: 1
+    nombre: "Impacto y alerta"
+    ventana: "T+0 a T+20 min"
+    hechos:
+      - {id: H1.1, t: "T+00:00", para: [defensa_civil], texto: "El sistema de alerta sísmica (SASPe) del IGP detecta un sismo y activa sirenas en parte de la costa."}
+      - {id: H1.2, t: "T+00:03", para: [defensa_civil, regulador], texto: "IGP: magnitud 8.0, epicentro en el mar frente a Lima Sur, profundidad 30 km."}
+      - {id: H1.3, t: "T+00:06", para: [defensa_civil], texto: "DHN: alerta de tsunami para la costa de Lima Sur y Callao; arribo estimado en 15 minutos."}
+      - {id: H1.4, t: "T+00:08", para: [defensa_civil], texto: "El enlace terrestre del COEN está degradado; solo funciona el terminal satelital. La cadena de aprobación del SISMATE (Monitoreo, Evaluador y Operador) tomará unos 8 minutos."}
+      - {id: H1.5, t: "T+00:10", para: [defensa_civil], texto: "En Lurín, Pachacámac y Villa El Salvador hay hogares quechuahablantes (dato sintético: 30 %)."}
+    preguntas:
+      defensa_civil: "¿Cómo alertas a la población del tsunami y cómo comunicas la emergencia a los operadores? ¿Qué te impide la norma?"
+      regulador: "Con la información del IGP, ¿qué debes hacer ahora?"
+    clave:
+      decisiones:
+        - {agente: defensa_civil, accion: "alerta SISMATE de tsunami y comunicación satelital a operadores", normas: [PE-L30472-3, PE-DIR-INDECI-003-2024, PE-DS051-23]}
+      vacios: [G5, G3]
+
+  - id: 2
+    nombre: "Red degradada y congestión"
+    ventana: "T+20 min a T+6 h"
+    hechos:
+      - {id: H2.1, t: "T+00:20", para: [operador_a], texto: "El 40 % de tus sitios en Lima Sur está caído por falta de energía y por el corte de tu anillo de fibra sin respaldo."}
+      - {id: H2.2, t: "T+00:20", para: [regulador], texto: "Monitoreo: el Operador A tiene ~40 % de sitios caídos en Lima Sur; el Operador B, ~12 %."}
+      - {id: H2.3, t: "T+00:25", para: [operador_a, regulador], texto: "El tráfico de voz es 8 veces el normal; el 60 % de los intentos de llamada fallan; las llamadas al 105 y al 116 no se completan."}
+      - {id: H2.4, t: "T+00:30", para: [operador_a], texto: "Registro de tu IA de optimización de red: de forma automática redujo la potencia, despriorizó el video y los datos en 120 celdas y apagó 15 sitios con batería baja, sin validación humana."}
+      - {id: H2.5, t: "T+00:40", para: [operador_a, regulador], texto: "Comunicación satelital del INDECI: emergencia nacional por sismo; las zonas afectadas se comunicarán más adelante."}
+      - {id: H2.6, t: "T+01:00", para: [defensa_civil], texto: "El alcalde de Chorrillos y el director del Hospital de Villa El Salvador no logran comunicarse por la red congestionada."}
+    preguntas:
+      operador_a: "¿Qué activas y qué decides sobre las acciones automáticas de tu IA de red?"
+      regulador: "¿Qué puedes ordenar frente a la congestión y frente a la IA de red del Operador A?"
+      defensa_civil: "¿Cómo aseguras comunicaciones prioritarias para el alcalde y el hospital?"
+    clave:
+      decisiones:
+        - {agente: operador_a, accion: "activar RECSE y 119; aplicar plan de contingencia; no activar gratuidad en zona hasta su definición", normas: [PE-DS051-23, PE-DS051-22, PE-DS051-16-17]}
+        - {agente: operador_a, accion: "revisar o anular las acciones de la IA de red", normas: [PE-DS115-24, PE-DS115-31]}
+        - {agente: regulador, accion: "dictar disposiciones de emergencia como MTC", normas: [PE-RGLT-19]}
+      vacios: [G3, G4, G6, G8, G10]
+
+  - id: 3
+    nombre: "Búsqueda de víctimas"
+    ventana: "T+6 h a T+24 h"
+    hechos:
+      - {id: H3.1, t: "T+06:00", para: [operador_a, regulador, defensa_civil], texto: "INDECI define las zonas afectadas: Chorrillos, Villa El Salvador, Lurín, San Juan de Miraflores y Pachacámac."}
+      - {id: H3.2, t: "T+08:00", para: [defensa_civil], texto: "Edificios colapsados en Villa El Salvador; se estima que hay personas atrapadas."}
+      - {id: H3.3, t: "T+09:00", para: [defensa_civil], texto: "Los equipos de rescate necesitan (a) un mapa de teléfonos activos por celda en Villa El Salvador y (b) la ubicación de 37 números que llamaron al 119 y al 116 sin completar la llamada."}
+    preguntas:
+      defensa_civil: "¿Puedes pedir esos datos al Operador A? ¿Con qué base legal?"
+      operador_a: "Si INDECI te pide el mapa por celda y la ubicación de 37 números, ¿puedes entregarlos?"
+      autoridad_datos: "Pronúnciate sobre la licitud de entregar (a) el mapa agregado por celda y (b) la ubicación individual de 37 números para el rescate."
+    clave:
+      decisiones:
+        - {agente: operador_a, accion: "activar llamadas y SMS gratuitos en las zonas afectadas", normas: [PE-DS051-23, PE-DS051-31-32]}
+        - {agente: autoridad_datos, accion: "mapa agregado lícito si está anonimizado; ubicación individual sin base habilitante", normas: [PE-L29733-14, PE-DL1182, PE-CONST-2.10, PE-CONST-137]}
+      vacios: [G2]
+
+  - id: 4
+    nombre: "Restablecimiento y roaming"
+    ventana: "T+24 h a T+72 h"
+    hechos:
+      - {id: H4.1, t: "T+24:00", para: [operador_a], texto: "El 25 % de tus sitios en la zona sigue caído; reparar el anillo de fibra tomará 30 horas más."}
+      - {id: H4.2, t: "T+24:00", para: [regulador], texto: "Monitoreo: el Operador A tiene 25 % de sitios caídos y el Operador B 90 % operativos en las mismas zonas urbanas (más de 50 000 habitantes por distrito)."}
+      - {id: H4.3, t: "T+46:00", para: [regulador, defensa_civil], texto: "Faltan 2 horas para que venza el periodo mínimo de 48 h de activación del sistema de emergencia."}
+    preguntas:
+      operador_a: "¿Puedes pedir roaming al Operador B? ¿Qué más puedes hacer para restablecer el servicio?"
+      regulador: "El Operador A te pide un mandato de roaming urgente. ¿Puedes emitirlo? ¿Qué haces con el plazo de 48 h?"
+    clave:
+      decisiones:
+        - {agente: regulador, accion: "mandato de roaming no procede (zona urbana, procedimiento de 60 días)", normas: [PE-DS002-2023-6, PE-DS002-2023-10, PE-OSIPTEL-261-2023]}
+        - {agente: regulador, accion: "extender la activación con el INDECI", normas: [PE-DS051-24]}
+        - {agente: operador_a, accion: "estaciones portátiles y espectro simplificado", normas: [PE-DS051-31-32, PE-DS051-33]}
+      vacios: [G1, G6, G7]
+
+vacios:
+  G1: "No existe roaming de emergencia activable por la autoridad"
+  G2: "No hay base legal para usar la ubicación individual de los teléfonos en búsqueda y rescate"
+  G3: "Toda la activación depende de una comunicación del INDECI"
+  G4: "La prioridad (RECSE) es solo para voz por circuitos y una lista cerrada de autoridades"
+  G5: "La alerta sísmica pasa por una cadena manual y no hay alertas en lenguas originarias"
+  G6: "La IA de red es de riesgo alto, pero sin supervisión humana obligatoria ni reglas de emergencia en telecomunicaciones"
+  G7: "No hay protocolo transfronterizo de roaming ni de coordinación"
+  G8: "Competencias fragmentadas entre el MTC y OSIPTEL"
+  G9: "No hay Plan Nacional de Telecomunicaciones de Emergencia"
+  G10: "No hay datos ni mensajería gratuitos en emergencias"
